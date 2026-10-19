@@ -1,0 +1,996 @@
+book_id,title,author,genre,format,price_usd,rating,review_count,estimated_monthly_units_sold,publication_year
+B01001,The Modern Equation of Brown,Brené Brown,Self-Help,Paperback,18.94,4.1,1577,2642,2017
+B01002,The Hidden Code of Orwell,George Orwell,Fiction,Hardcover,36.47,4.2,1014,1393,2016
+B01003,The Brave Habits of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,15.99,4.3,1509,2985,2017
+B01004,The Infinite Code of Ng,Andrew Ng,Technology,Paperback,12.55,4.2,1311,2804,2018
+B01005,The Essential Strategy of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,7.68,4.6,833,2551,2015
+B01006,The Modern World of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,24.08,4.5,4769,6937,2012
+B01007,The Courageous Path of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,21.2,5.0,5872,8830,2020
+B01008,The Modern Paradox of Skloot,Rebecca Skloot,Non-Fiction,Kindle,14.83,4.2,3543,3722,2021
+B01009,The Infinite Habits of Dalio,Ray Dalio,Business & Finance,Paperback,23.88,4.6,2357,4639,2018
+B01010,The Unreasonable Journey of Hoover,Colleen Hoover,Fiction,Kindle,11.75,4.7,2505,4926,2013
+B01011,The Deep Empire of Christie,Agatha Christie,Mystery & Thriller,Kindle,6.06,4.3,625,1733,2022
+B01012,The Mindful Mind of Brown,Brené Brown,Self-Help,Hardcover,24.23,4.9,1022,1692,2012
+B01013,The Curious World of Grann,David Grann,Non-Fiction,Paperback,14.42,4.4,632,1446,2018
+B01014,The Unreasonable Future of Hazelwood,Ali Hazelwood,Romance,Kindle,13.87,4.7,427,1294,2017
+B01015,The Essential Equation of Grann,David Grann,Non-Fiction,Kindle,5.66,4.3,748,3022,2017
+B01016,The Subtle Habits of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,6.04,4.7,566,2510,2014
+B01017,The Silent World of Russell,Stuart Russell,Technology,Paperback,10.76,4.6,1359,2341,2014
+B01018,The Mindful Shadows of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,21.41,4.7,664,1770,2020
+B01019,The Modern Horizon of Dalio,Ray Dalio,Business & Finance,Paperback,12.25,5.0,1976,4596,2017
+B01020,The Infinite Strategy of Harari,Yuval Noah Harari,Non-Fiction,Kindle,10.73,4.6,661,2189,2023
+B01021,The Brave Art of Austen,Jane Austen,Fiction,Kindle,9.49,4.0,4086,4434,2024
+B01022,The Atomic Habits of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,13.76,4.5,4272,5782,2017
+B01023,The Subtle Path of Brown,Dan Brown,Mystery & Thriller,Kindle,13.64,4.6,6081,8402,2017
+B01024,The Predictable World of Attia,Peter Attia,Health & Wellness,Kindle,9.57,4.8,7766,7873,2021
+B01025,The Mindful Mind of Skloot,Rebecca Skloot,Non-Fiction,Kindle,11.92,4.1,6096,7326,2019
+B01026,The Courageous Journey of Ries,Eric Ries,Business & Finance,Hardcover,27.25,4.5,4491,5028,2019
+B01027,The Deep Future of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,14.2,4.4,1554,2296,2023
+B01028,The Hidden Secrets of Ferriss,Tim Ferriss,Health & Wellness,Paperback,24.29,4.6,213,1058,2024
+B01029,The Deep Horizon of Marquez,Gabriel Garcia Marquez,Fiction,Hardcover,25.65,4.5,459,1542,2020
+B01030,The Mindful Strategy of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Hardcover,21.93,4.8,1913,3257,2020
+B01031,The Lost Shadows of Hormozi,Alex Hormozi,Business & Finance,Kindle,6.06,4.1,2241,2823,2020
+B01032,The Mindful Journey of Grann,David Grann,Non-Fiction,Hardcover,26.09,4.1,1393,2127,2011
+B01033,The Courageous Paradox of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,22.9,4.5,228,914,2022
+B01034,The Deep Shadows of Bryson,Bill Bryson,Non-Fiction,Kindle,3.61,5.0,13735,14786,2021
+B01035,The Lost Journey of Huyen,Chip Huyen,Technology,Kindle,7.78,4.4,1121,2886,2014
+B01036,The Brave Future of Hoover,Colleen Hoover,Fiction,Kindle,5.07,4.2,881,2600,2021
+B01037,The Silent Horizon of Hormozi,Alex Hormozi,Business & Finance,Paperback,19.85,5.0,1086,1922,2019
+B01038,The Brave Paradox of Morrison,Toni Morrison,Fiction,Kindle,3.54,4.3,14174,8865,2019
+B01039,The Courageous Journey of Clear,James Clear,Self-Help,Paperback,10.71,4.4,4152,5082,2020
+B01040,The Silent Future of Thiel,Peter Thiel,Business & Finance,Paperback,24.09,3.7,7395,6248,2018
+B01041,The Curious Secrets of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,19.76,4.2,695,1450,2017
+B01042,The Infinite Shadows of Lee,Harper Lee,Fiction,Kindle,6.82,4.2,4603,4745,2020
+B01043,The Essential Mind of Hormozi,Alex Hormozi,Business & Finance,Kindle,14.6,3.6,8337,7764,2019
+B01044,The Atomic Habits of King,Stephen King,Mystery & Thriller,Paperback,15.1,4.9,1114,3110,2013
+B01045,The Mindful Art of Rooney,Sally Rooney,Romance,Kindle,13.74,4.5,1566,4767,2019
+B01046,The Deep Secrets of Hormozi,Alex Hormozi,Business & Finance,Paperback,18.3,4.3,2378,4541,2023
+B01047,The Deep Secrets of Kleppmann,Martin Kleppmann,Technology,Hardcover,26.36,4.6,8051,4459,2012
+B01048,The Brave World of Thiel,Peter Thiel,Business & Finance,Hardcover,22.07,3.8,1972,2392,2022
+B01049,The Modern Shadows of Henry,Emily Henry,Romance,Hardcover,34.81,4.1,1429,2417,2019
+B01050,The Infinite Shadows of Carnegie,Dale Carnegie,Self-Help,Kindle,6.03,4.9,219,1577,2021
+B01051,The Infinite Paradox of Isaacson,Walter Isaacson,Biography & Memoir,Kindle,7.79,4.1,1720,3621,2018
+B01052,The Mindful Paradox of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,13.68,4.5,1833,2950,2019
+B01053,The Modern Art of Walker,Matthew Walker,Health & Wellness,Kindle,6.52,4.9,835,3609,2023
+B01054,The Curious Path of Morrison,Toni Morrison,Fiction,Paperback,14.15,4.3,407,1225,2019
+B01055,The Subtle Horizon of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,10.47,4.2,310,1210,2016
+B01056,The Predictable Echoes of Orwell,George Orwell,Fiction,Hardcover,34.23,3.9,13556,8590,2022
+B01057,The Essential Habits of Hoover,Colleen Hoover,Fiction,Paperback,17.2,4.2,8776,8635,2019
+B01058,The Infinite Strategy of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,3.67,4.5,2521,6344,2024
+B01059,The Deep Code of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,15.66,4.1,885,1663,2016
+B01060,The Silent Path of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,15.36,4.5,793,2066,2021
+B01061,The Silent Echoes of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Hardcover,20.85,4.5,7913,5711,2018
+B01062,The Atomic Equation of Foley,Lucy Foley,Mystery & Thriller,Kindle,4.63,3.8,8855,7797,2022
+B01063,The Silent Path of Thinker,Atomic Thinker,Self-Help,Hardcover,25.25,5.0,2322,3890,2018
+B01064,The Curious Mind of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,24.69,3.7,1639,2712,2015
+B01065,The Unreasonable Shadows of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,15.99,4.1,3351,4618,2018
+B01066,The Predictable Horizon of Westover,Tara Westover,Biography & Memoir,Kindle,5.3,4.1,977,1926,2013
+B01067,The Courageous World of Carnegie,Dale Carnegie,Self-Help,Kindle,6.95,4.2,1338,3135,2020
+B01068,The Modern Horizon of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,6.31,4.6,4159,5188,2015
+B01069,The Courageous Empire of Thinker,Atomic Thinker,Self-Help,Paperback,17.96,4.3,2080,2573,2013
+B01070,The Digital Strategy of Ries,Eric Ries,Business & Finance,Kindle,13.4,4.0,291,978,2021
+B01071,The Silent Shadows of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,9.41,4.2,486,1788,2017
+B01072,The Modern Mind of Thiel,Peter Thiel,Business & Finance,Paperback,18.79,4.2,10303,5960,2016
+B01073,The Mindful World of Carnegie,Dale Carnegie,Self-Help,Kindle,8.97,4.6,1460,2508,2015
+B01074,The Courageous Equation of Manson,Mark Manson,Self-Help,Kindle,12.66,4.5,4908,8789,2010
+B01075,The Courageous Art of Russell,Stuart Russell,Technology,Paperback,18.02,4.8,1645,2642,2023
+B01076,The Silent Mind of King,Stephen King,Mystery & Thriller,Kindle,4.37,3.9,4348,5925,2014
+B01077,The Infinite Habits of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,8.44,5.0,16032,12007,2020
+B01078,The Deep Art of Hoover,Colleen Hoover,Fiction,Paperback,18.92,3.5,752,1393,2023
+B01079,The Atomic Journey of Noah,Trevor Noah,Biography & Memoir,Hardcover,39.8,4.2,461,1436,2021
+B01080,The Essential Equation of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,13.01,4.3,1272,3032,2020
+B01081,The Brave Paradox of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,20.23,5.0,1166,3512,2020
+B01082,The Brave Habits of Herbert,Frank Herbert,Sci-Fi & Fantasy,Hardcover,27.05,4.7,2008,3065,2013
+B01083,The Essential Empire of Huberman,Andrew Huberman,Health & Wellness,Kindle,12.52,4.6,21977,15000,2021
+B01084,The Predictable Code of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,12.14,4.6,665,1885,2021
+B01085,The Modern Strategy of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,11.9,4.9,1108,2077,2015
+B01086,The Digital Strategy of Flynn,Gillian Flynn,Mystery & Thriller,Paperback,18.47,4.7,10141,10449,2023
+B01087,The Essential Shadows of Thinker,Atomic Thinker,Self-Help,Paperback,24.2,4.5,524,1630,2020
+B01088,The Digital Future of Austen,Jane Austen,Fiction,Kindle,14.02,4.8,3788,5917,2012
+B01089,The Essential Art of Morrison,Toni Morrison,Fiction,Hardcover,28.46,4.4,3217,3666,2011
+B01090,The Brave Code of Bryson,Bill Bryson,Non-Fiction,Paperback,11.7,4.8,1377,3738,2018
+B01091,The Silent Horizon of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,8.42,4.3,1339,3247,2018
+B01092,The Predictable Strategy of Henry,Emily Henry,Romance,Kindle,5.63,4.4,353,2079,2018
+B01093,The Curious Strategy of Weir,Andy Weir,Sci-Fi & Fantasy,Hardcover,29.54,4.2,2130,3038,2015
+B01094,The Silent Paradox of Reid,Taylor Jenkins Reid,Romance,Kindle,13.03,3.8,3908,5880,2019
+B01095,The Atomic Journey of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,12.32,4.5,1366,3530,2017
+B01096,The Atomic Future of Grann,David Grann,Non-Fiction,Paperback,24.67,4.8,165,774,2015
+B01097,The Brave Strategy of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,23.3,5.0,2936,5558,2024
+B01098,The Digital Horizon of Ries,Eric Ries,Business & Finance,Kindle,11.01,4.2,644,2656,2010
+B01099,The Deep Secrets of Hoover,Colleen Hoover,Fiction,Kindle,13.51,4.9,5187,9833,2020
+B01100,The Infinite Shadows of Harari,Yuval Noah Harari,Non-Fiction,Kindle,12.96,4.8,865,2605,2022
+B01101,The Hidden Future of Harari,Yuval Noah Harari,Non-Fiction,Kindle,13.41,4.7,1747,4894,2018
+B01102,The Brave Path of Morrison,Toni Morrison,Fiction,Paperback,16.03,4.6,482,1507,2013
+B01103,The Unreasonable Code of Hazelwood,Ali Hazelwood,Romance,Kindle,8.965,4.5,616,1901,2019
+B01104,The Curious Shadows of Thiel,Peter Thiel,Business & Finance,Kindle,4.67,4.1,664,2417,2016
+B01105,The Unreasonable Empire of Hormozi,Alex Hormozi,Business & Finance,Hardcover,27.78,4.5,133,435,2014
+B01106,The Deep Mind of Brown,Dan Brown,Mystery & Thriller,Paperback,11.01,4.3,6825,8047,2021
+B01107,The Atomic Shadows of Ries,Eric Ries,Business & Finance,Paperback,24.04,4.1,3906,3139,2016
+B01108,The Silent Journey of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Hardcover,22.24,4.2,22659,8679,2017
+B01109,The Digital Path of Brown,Brené Brown,Self-Help,Kindle,5.95,4.6,3248,6360,2016
+B01110,The Deep Future of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,24.42,4.6,5492,6127,2012
+B01111,The Essential Strategy of Huberman,Andrew Huberman,Health & Wellness,Paperback,19.87,4.7,2996,3723,2018
+B01112,The Brave Paradox of Harari,Yuval Noah Harari,Non-Fiction,Paperback,10.65,4.0,31779,12168,2013
+B01113,The Mindful Path of Brown,Dan Brown,Mystery & Thriller,Hardcover,38.82,4.8,1654,3178,2016
+B01114,The Courageous Strategy of Isaacson,Walter Isaacson,Biography & Memoir,Kindle,9.72,4.8,1711,4232,2018
+B01115,The Modern Path of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,21.85,4.8,352,1733,2020
+B01116,The Lost World of Lewis,Michael Lewis,Non-Fiction,Kindle,13.49,4.6,1904,5020,2024
+B01117,The Silent Paradox of Thinker,Atomic Thinker,Self-Help,Kindle,8.75,3.8,3376,4469,2012
+B01118,The Deep Habits of Bryson,Bill Bryson,Non-Fiction,Kindle,4.32,3.9,658,1737,2015
+B01119,The Deep Journey of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,4.3,4.1,1335,3990,2021
+B01120,The Hidden Shadows of Bryson,Bill Bryson,Non-Fiction,Hardcover,38.83,5.0,871,1506,2024
+B01121,The Predictable Strategy of Bryson,Bill Bryson,Non-Fiction,Kindle,12.96,4.3,1612,4643,2022
+B01122,The Modern Shadows of Foley,Lucy Foley,Mystery & Thriller,Hardcover,38.47,4.9,965,2226,2014
+B01123,The Essential Paradox of Knight,Phil Knight,Biography & Memoir,Paperback,18.88,4.1,2167,4004,2016
+B01124,The Infinite Art of Fitzgerald,F. Scott Fitzgerald,Fiction,Hardcover,19.73,4.6,1449,2671,2016
+B01125,The Essential Equation Vol. 2,David Grann,Non-Fiction,Paperback,17.43,4.2,2312,4194,2019
+B01126,The Infinite Empire of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,19.92,4.8,2091,4259,2019
+B01127,The Silent Equation of Noah,Trevor Noah,Biography & Memoir,Hardcover,33.87,4.6,4643,4914,2020
+B01128,The Digital Paradox of Hawkins,Paula Hawkins,Mystery & Thriller,Hardcover,19.6,4.3,2124,2401,2021
+B01129,The Atomic Journey of Austen,Jane Austen,Fiction,Paperback,13.87,4.6,225,789,2017
+B01130,The Infinite Horizon of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,12.12,4.6,1905,3798,2020
+B01131,The Hidden Mind of Ferriss,Tim Ferriss,Health & Wellness,Kindle,12.24,4.7,5295,7441,2011
+B01132,The Atomic Journey of Lee,Harper Lee,Fiction,Hardcover,39.34,4.2,2737,3504,2010
+B01133,The Modern Strategy of Morrison,Toni Morrison,Fiction,Paperback,13.78,4.6,1714,2382,2022
+B01134,The Predictable Equation of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,3.98,4.8,7643,8098,2023
+B01135,The Predictable Code of Austen,Jane Austen,Fiction,Hardcover,36.99,3.8,969,1364,2021
+B01136,The Mindful Habits of Brown,Dan Brown,Mystery & Thriller,Paperback,15.52,4.4,6179,8002,2014
+B01137,The Essential Strategy of Knight,Phil Knight,Biography & Memoir,Paperback,17.95,4.6,1363,3642,2014
+B01138,The Courageous Shadows of Thinker,Atomic Thinker,Self-Help,Kindle,11.22,3.9,1277,2857,2012
+B01139,The Atomic Path of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,14.8,4.4,494,2142,2017
+B01140,The Predictable Art of Russell,Stuart Russell,Technology,Hardcover,35.37,4.4,964,1331,2015
+B01141,The Subtle Habits of Huyen,Chip Huyen,Technology,Paperback,10.14,4.5,191,688,2017
+B01142,The Lost Echoes of Austen,Jane Austen,Fiction,Kindle,14.72,4.6,616,2731,2011
+B01143,The Predictable Secrets of Dalio,Ray Dalio,Business & Finance,Hardcover,31.48,4.9,9662,6133,2023
+B01144,The Courageous Mind of Pollan,Michael Pollan,Health & Wellness,Kindle,12.77,4.9,2247,4775,2020
+B01145,The Courageous Equation of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,18.89,4.3,19536,12191,2017
+B01146,The Essential Paradox of Brown,Brené Brown,Self-Help,Paperback,19.87,5.0,1625,3831,2015
+B01147,The Digital Secrets of Ng,Andrew Ng,Technology,Kindle,7.83,4.3,382,1324,2022
+B01148,The Modern Empire of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,16.37,4.0,361,1540,2011
+B01149,The Subtle Empire of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,17.29,3.8,962,2028,2022
+B01150,The Atomic Path of Skloot,Rebecca Skloot,Non-Fiction,Paperback,13.53,4.2,8326,7388,2020
+B01151,The Unreasonable Code of Carnegie,Dale Carnegie,Self-Help,Hardcover,29.33,4.6,1202,2024,2019
+B01152,The Unreasonable Echoes of Carnegie,Dale Carnegie,Self-Help,Paperback,14.67,4.8,1306,1971,2019
+B01153,The Predictable Shadows of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,13.53,3.7,2391,3720,2018
+B01154,The Curious Habits of Lewis,Michael Lewis,Non-Fiction,Kindle,7.3,4.9,309,1503,2019
+B01155,The Essential Future of King,Stephen King,Mystery & Thriller,Hardcover,30.71,4.2,1898,3221,2013
+B01156,The Predictable Habits of Harari,Yuval Noah Harari,Non-Fiction,Kindle,8.42,4.3,2960,5051,2011
+B01157,The Atomic Path of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,10.25,3.9,3145,3824,2017
+B01158,The Predictable Mind of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,13.02,4.5,883,2087,2022
+B01159,The Silent Shadows of Lee,Harper Lee,Fiction,Hardcover,26.85,4.5,2172,3324,2013
+B01160,The Silent Habits of King,Stephen King,Mystery & Thriller,Kindle,10.9,5.0,512,1671,2020
+B01161,The Silent Art of Ng,Andrew Ng,Technology,Hardcover,34.79,4.3,1034,1357,2020
+B01162,The Hidden Secrets of King,Stephen King,Mystery & Thriller,Paperback,21.42,4.3,8211,8472,2013
+B01163,The Deep Strategy of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,19.14,3.7,5875,5202,2020
+B01164,The Curious Echoes of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,10.23,4.8,9772,10576,2017
+B01165,The Hidden Future of Obama,Michelle Obama,Biography & Memoir,Kindle,7.08,3.9,295,1348,2019
+B01166,The Courageous World of Ries,Eric Ries,Business & Finance,Paperback,17.81,4.3,7244,8237,2012
+B01167,The Digital Secrets of Pollan,Michael Pollan,Health & Wellness,Kindle,14.2,4.1,1327,3056,2016
+B01168,The Predictable Strategy of Lewis,Michael Lewis,Non-Fiction,Paperback,18.7,4.5,1067,2249,2023
+B01169,The Unreasonable Strategy of Westover,Tara Westover,Biography & Memoir,Hardcover,35.79,4.2,675,1653,2014
+B01170,The Subtle Echoes of Rooney,Sally Rooney,Romance,Paperback,18.24,4.4,1127,3113,2020
+B01171,The Brave Empire of Noah,Trevor Noah,Biography & Memoir,Kindle,10.32,4.8,1298,4472,2017
+B01172,The Subtle World of Skloot,Rebecca Skloot,Non-Fiction,Paperback,22.76,4.8,3383,5650,2014
+B01173,The Modern Habits of Brown,Brené Brown,Self-Help,Paperback,22.93,4.3,1567,1978,2020
+B01174,The Lost Art of Dalio,Ray Dalio,Business & Finance,Kindle,10.12,4.5,1803,3083,2020
+B01175,The Predictable Shadows of Thinker,Atomic Thinker,Self-Help,Paperback,10.23,4.8,1020,2663,2017
+B01176,The Courageous Mind of Reid,Taylor Jenkins Reid,Romance,Kindle,13.72,4.2,592,1675,2017
+B01177,The Curious World of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,11.04,3.9,4475,4849,2020
+B01178,The Infinite Echoes of Harari,Yuval Noah Harari,Non-Fiction,Paperback,24.9,4.6,15385,12213,2018
+B01179,The Lost Mind of Austen,Jane Austen,Fiction,Hardcover,32.32,4.2,3213,3099,2018
+B01180,The Silent Horizon of Noah,Trevor Noah,Biography & Memoir,Paperback,21.92,4.0,1276,3091,2023
+B01181,The Courageous Code of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,6.07,4.5,2615,5254,2019
+B01182,The Courageous Mind of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,6.15,4.2,1390,4139,2019
+B01183,The Courageous Shadows of Bryson,Bill Bryson,Non-Fiction,Hardcover,37.33,4.6,1008,1993,2019
+B01184,The Modern Habits of Manson,Mark Manson,Self-Help,Kindle,12.8,4.7,1313,4335,2021
+B01185,The Courageous Art of King,Stephen King,Mystery & Thriller,Kindle,3.26,4.2,994,3476,2019
+B01186,The Brave Paradox of Walker,Matthew Walker,Health & Wellness,Hardcover,38.37,5.0,1299,2778,2014
+B01187,The Hidden Art of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,11.82,4.7,50,386,2012
+B01188,The Predictable Strategy of King,Stephen King,Mystery & Thriller,Paperback,16.58,4.5,755,1628,2020
+B01189,The Modern Secrets of Dalio,Ray Dalio,Business & Finance,Paperback,12.87,4.4,354,1486,2020
+B01190,The Brave Secrets of Lewis,Michael Lewis,Non-Fiction,Kindle,12.38,4.1,976,2921,2020
+B01191,The Deep Shadows of Housel,Morgan Housel,Business & Finance,Kindle,5.08,4.7,2886,6191,2021
+B01192,The Infinite Shadows of Brown,Brené Brown,Self-Help,Paperback,17.21,4.3,503,1964,2015
+B01193,The Hidden Echoes of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,12.11,4.4,528,1633,2010
+B01194,The Deep World of Skloot,Rebecca Skloot,Non-Fiction,Kindle,3.5,3.9,781,2394,2019
+B01195,The Lost Journey of Skloot,Rebecca Skloot,Non-Fiction,Kindle,6.89,4.3,11883,9950,2017
+B01196,The Lost Paradox of Brown,Brené Brown,Self-Help,Kindle,4.22,4.6,2171,5424,2012
+B01197,The Lost Horizon of Harari,Yuval Noah Harari,Non-Fiction,Hardcover,28.68,4.9,6876,7291,2020
+B01198,The Unreasonable Path of Graham,Benjamin Graham,Business & Finance,Hardcover,21.21,4.4,2404,2094,2011
+B01199,The Predictable Secrets of Christie,Agatha Christie,Mystery & Thriller,Kindle,3.14,3.9,620,1746,2021
+B01200,The Infinite Equation of Graham,Benjamin Graham,Business & Finance,Kindle,9.59,4.1,1541,3379,2022
+B01201,The Brave World of Christie,Agatha Christie,Mystery & Thriller,Paperback,10.15,4.1,686,1247,2023
+B01202,The Atomic Empire of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,14.38,4.4,2429,3885,2021
+B01203,The Atomic Equation of Noah,Trevor Noah,Biography & Memoir,Kindle,4.32,4.1,2257,3805,2019
+B01204,The Hidden Mind of Carnegie,Dale Carnegie,Self-Help,Kindle,4.45,4.5,1508,3967,2016
+B01205,The Curious Art of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,19.53,4.5,10498,6735,2011
+B01206,The Digital Art of Grann,David Grann,Non-Fiction,Hardcover,19.9,4.4,1645,2725,2021
+B01207,The Unreasonable Path of Lewis,Michael Lewis,Non-Fiction,Kindle,7.95,4.7,4616,7516,2013
+B01208,The Unreasonable Future of Morrison,Toni Morrison,Fiction,Paperback,21.41,4.4,470,1030,2015
+B01209,The Subtle Path of Christie,Agatha Christie,Mystery & Thriller,Kindle,13.55,3.9,5917,7701,2021
+B01210,The Brave Horizon of Thiel,Peter Thiel,Business & Finance,Paperback,18.3,3.9,535,1107,2016
+B01211,The Lost Mind of Knight,Phil Knight,Biography & Memoir,Kindle,10.71,4.2,3785,4331,2020
+B01212,The Deep Empire of Hoover,Colleen Hoover,Fiction,Paperback,15.32,4.2,30152,15000,2012
+B01213,The Subtle Path of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,20.14,4.2,4494,5963,2019
+B01214,The Essential Paradox of Morrison,Toni Morrison,Fiction,Paperback,24.72,4.6,1050,2465,2017
+B01215,The Unreasonable Habits of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,5.64,4.9,3618,8421,2023
+B01216,The Hidden Mind of Housel,Morgan Housel,Business & Finance,Paperback,12.66,4.4,4737,7321,2015
+B01217,The Atomic Secrets of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,3.28,4.2,4224,6041,2016
+B01218,The Infinite Journey of Walker,Matthew Walker,Health & Wellness,Kindle,7.51,3.9,82,608,2023
+B01219,The Subtle Journey of Thiel,Peter Thiel,Business & Finance,Paperback,17.44,5.0,1093,3159,2014
+B01220,The Brave Strategy of Graham,Benjamin Graham,Business & Finance,Hardcover,28.9,4.1,633,1552,2023
+B01221,The Lost Art of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,10.97,4.2,1780,2146,2022
+B01222,The Atomic Habits of Austen,Jane Austen,Fiction,Paperback,11.29,4.7,678,2014,2013
+B01223,The Lost Empire of Reid,Taylor Jenkins Reid,Romance,Kindle,6.11,4.7,454,1584,2019
+B01224,The Deep Horizon of Clear,James Clear,Self-Help,Hardcover,22.83,4.1,1509,2365,2019
+B01225,The Atomic Future of Kim,Gene Kim,Technology,Paperback,11.01,4.5,13261,7057,2018
+B01226,The Deep World of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,13.23,5.0,1356,2640,2021
+B01227,The Lost Secrets of Orwell,George Orwell,Fiction,Kindle,12.43,4.2,750,1817,2017
+B01228,The Modern Path of Foley,Lucy Foley,Mystery & Thriller,Kindle,10.91,4.2,847,3167,2019
+B01229,The Modern World of Christie,Agatha Christie,Mystery & Thriller,Kindle,8.56,4.4,4766,6677,2013
+B01230,The Digital World of Housel,Morgan Housel,Business & Finance,Kindle,8.28,4.2,1029,2039,2017
+B01231,The Deep Path of Hawkins,Paula Hawkins,Mystery & Thriller,Paperback,15.93,4.4,4619,4117,2020
+B01232,The Predictable Secrets of Brown,Dan Brown,Mystery & Thriller,Hardcover,22.54,5.0,2210,2243,2017
+B01233,The Deep Mind Vol. 2,Dan Brown,Mystery & Thriller,Paperback,24.51,4.1,6352,7646,2018
+B01234,The Predictable World of Morrison,Toni Morrison,Fiction,Kindle,13.57,4.0,1365,2111,2019
+B01235,The Subtle World of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,7.54,4.6,1395,2678,2021
+B01236,The Modern Future of Kleppmann,Martin Kleppmann,Technology,Paperback,15.36,4.9,1763,3087,2014
+B01237,The Courageous Habits of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,4.69,4.2,193,1266,2020
+B01238,The Silent Code of Ries,Eric Ries,Business & Finance,Paperback,22.65,4.2,2507,3165,2010
+B01239,The Brave Mind of Ries,Eric Ries,Business & Finance,Kindle,13.03,4.7,411,2084,2019
+B01240,The Infinite Art of Skloot,Rebecca Skloot,Non-Fiction,Kindle,10.83,4.7,3767,6932,2016
+B01241,The Digital Shadows of Sparks,Nicholas Sparks,Romance,Kindle,7.67,3.9,956,2265,2013
+B01242,The Courageous Equation of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,3.49,4.5,2229,3874,2022
+B01243,The Infinite Empire of Lewis,Michael Lewis,Non-Fiction,Paperback,22.58,4.4,2142,3575,2020
+B01244,The Modern Mind of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,11.43,4.1,2000,3232,2010
+B01245,The Courageous Equation of Clear,James Clear,Self-Help,Kindle,5.71,4.6,9705,7482,2022
+B01246,The Courageous Echoes of Knight,Phil Knight,Biography & Memoir,Hardcover,22.88,4.4,1501,2690,2011
+B01247,The Atomic Code of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,10.94,4.5,6501,4905,2012
+B01248,The Infinite Habits of Rooney,Sally Rooney,Romance,Kindle,14.46,4.0,1602,3000,2014
+B01249,The Infinite Echoes of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,20.53,4.4,310,891,2017
+B01250,The Curious World of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,8.66,4.7,1426,2518,2011
+B01251,The Essential Secrets of Dalio,Ray Dalio,Business & Finance,Kindle,14.65,4.3,185,883,2020
+B01252,The Predictable Paradox of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,3.08,4.3,790,2898,2019
+B01253,The Hidden Journey of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,12.79,4.7,960,3018,2022
+B01254,The Mindful Equation of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,8.4,4.9,828,3533,2020
+B01255,The Mindful Habits of Skloot,Rebecca Skloot,Non-Fiction,Paperback,24.32,4.2,2124,2770,2011
+B01256,The Atomic World of Thiel,Peter Thiel,Business & Finance,Paperback,22.0,4.2,2426,3737,2019
+B01257,The Lost Secrets of Rooney,Sally Rooney,Romance,Kindle,14.29,4.8,6456,7865,2020
+B01258,The Infinite Echoes of Lee,Harper Lee,Fiction,Kindle,4.84,4.6,554,2467,2019
+B01259,The Silent Art of Obama,Michelle Obama,Biography & Memoir,Kindle,6.53,5.0,1059,2361,2013
+B01260,The Unreasonable Path of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,22.67,4.2,12744,9732,2016
+B01261,The Courageous Future of Harari,Yuval Noah Harari,Non-Fiction,Kindle,7.6,5.0,396,2252,2012
+B01262,The Digital Art of Hazelwood,Ali Hazelwood,Romance,Kindle,7.71,4.9,53953,15000,2020
+B01263,The Silent Strategy of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,3.3,4.9,8393,9138,2012
+B01264,The Silent Echoes of Clear,James Clear,Self-Help,Paperback,17.96,4.5,6463,6713,2013
+B01265,The Deep Journey of Lee,Harper Lee,Fiction,Kindle,9.06,4.4,2836,3556,2011
+B01266,The Infinite World of Carnegie,Dale Carnegie,Self-Help,Kindle,4.75,4.0,1737,4231,2017
+B01267,The Unreasonable Echoes of Covey,Stephen Covey,Self-Help,Paperback,22.39,4.4,2958,3816,2017
+B01268,The Brave Habits of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,12.52,4.6,1053,2215,2022
+B01269,The Silent Code of Thiel,Peter Thiel,Business & Finance,Kindle,6.23,4.4,3113,4778,2019
+B01270,The Predictable Strategy of Orwell,George Orwell,Fiction,Paperback,13.1,4.6,4631,4808,2017
+B01271,The Deep Shadows of Brown,Dan Brown,Mystery & Thriller,Kindle,3.46,5.0,346,1485,2023
+B01272,The Hidden Paradox of Sparks,Nicholas Sparks,Romance,Paperback,10.56,4.5,10849,6188,2020
+B01273,The Curious Echoes of Carnegie,Dale Carnegie,Self-Help,Kindle,8.54,4.4,2778,6114,2019
+B01274,The Digital Habits of Thinker,Atomic Thinker,Self-Help,Paperback,16.61,4.7,2221,3426,2021
+B01275,The Atomic Future of Sparks,Nicholas Sparks,Romance,Paperback,21.46,4.6,1995,2806,2013
+B01276,The Silent Habits of Isaacson,Walter Isaacson,Biography & Memoir,Kindle,5.87,4.0,709,1497,2023
+B01277,The Mindful Echoes of Harari,Yuval Noah Harari,Non-Fiction,Paperback,20.83,4.1,2829,3265,2017
+B01278,The Essential Journey of Brown,Dan Brown,Mystery & Thriller,Hardcover,19.18,4.2,4639,2785,2021
+B01279,The Modern Code of Isaacson,Walter Isaacson,Biography & Memoir,Kindle,14.24,4.6,3085,6845,2021
+B01280,The Brave World of Hoover,Colleen Hoover,Fiction,Kindle,7.88,4.2,1542,3102,2013
+B01281,The Mindful World of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,4.2,4.5,4325,4891,2022
+B01282,The Curious World Vol. 2,David Grann,Non-Fiction,Kindle,7.82,4.1,780,1982,2021
+B01283,The Hidden Paradox Vol. 2,Nicholas Sparks,Romance,Paperback,22.62,3.9,2400,2289,2015
+B01284,The Hidden Strategy of Clear,James Clear,Self-Help,Hardcover,29.55,5.0,437,1410,2012
+B01285,The Atomic Future of Ries,Eric Ries,Business & Finance,Kindle,6.63,4.6,267,1087,2022
+B01286,The Unreasonable Strategy of King,Stephen King,Mystery & Thriller,Kindle,4.6,4.2,2137,4753,2016
+B01287,The Predictable Empire of Lee,Harper Lee,Fiction,Paperback,18.89,4.5,4874,5422,2017
+B01288,The Curious Equation of Ferriss,Tim Ferriss,Health & Wellness,Paperback,11.94,4.8,2227,4015,2022
+B01289,The Silent Echoes of Huberman,Andrew Huberman,Health & Wellness,Kindle,14.56,4.5,952,2808,2017
+B01290,The Modern Shadows of Thiel,Peter Thiel,Business & Finance,Kindle,13.5,4.2,725,1733,2020
+B01291,The Deep Mind of Attia,Peter Attia,Health & Wellness,Paperback,19.65,4.4,1101,3081,2019
+B01292,The Mindful World of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,21.55,4.5,420,1361,2021
+B01293,The Digital Echoes of Thinker,Atomic Thinker,Self-Help,Hardcover,23.52,4.7,10535,6153,2013
+B01294,The Infinite Future of Thiel,Peter Thiel,Business & Finance,Hardcover,20.09,4.3,15696,8460,2012
+B01295,The Brave Habits of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,9.18,4.7,1028,2126,2017
+B01296,The Silent Mind of Grann,David Grann,Non-Fiction,Hardcover,19.65,4.1,6733,6064,2016
+B01297,The Subtle Empire of Christie,Agatha Christie,Mystery & Thriller,Paperback,20.15,4.8,815,2591,2019
+B01298,The Hidden Code of Russell,Stuart Russell,Technology,Kindle,7.58,4.0,1080,2576,2017
+B01299,The Lost Shadows of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,7.45,4.5,1912,5049,2010
+B01300,The Unreasonable Art of Henry,Emily Henry,Romance,Kindle,5.48,4.5,2132,4681,2018
+B01301,The Lost Mind Vol. 2,Jane Austen,Fiction,Hardcover,38.79,4.6,1913,1979,2017
+B01302,The Unreasonable Empire of Bryson,Bill Bryson,Non-Fiction,Hardcover,36.78,4.0,643,1687,2019
+B01303,The Digital Equation of Rooney,Sally Rooney,Romance,Paperback,24.2,4.8,672,2035,2012
+B01304,The Silent World of Thiel,Peter Thiel,Business & Finance,Kindle,10.56,4.0,1523,4188,2019
+B01305,The Lost Code of Skloot,Rebecca Skloot,Non-Fiction,Hardcover,32.03,3.9,2232,2433,2019
+B01306,The Predictable Equation of Noah,Trevor Noah,Biography & Memoir,Paperback,12.04,4.4,2215,3269,2020
+B01307,The Infinite Future of Austen,Jane Austen,Fiction,Hardcover,33.94,4.4,2604,2601,2018
+B01308,The Hidden World of Weir,Andy Weir,Sci-Fi & Fantasy,Hardcover,22.98,4.5,1846,3021,2014
+B01309,The Modern Journey of Manson,Mark Manson,Self-Help,Paperback,19.99,4.5,481,1816,2019
+B01310,The Subtle Code of Lee,Harper Lee,Fiction,Kindle,9.61,4.2,3027,5019,2021
+B01311,The Brave Paradox of Lewis,Michael Lewis,Non-Fiction,Paperback,19.93,4.3,886,1937,2022
+B01312,The Predictable Shadows of Ng,Andrew Ng,Technology,Kindle,7.7,4.5,2133,5651,2019
+B01313,The Predictable Mind of Carnegie,Dale Carnegie,Self-Help,Kindle,9.88,4.8,1338,4552,2022
+B01314,The Digital Equation of Kleppmann,Martin Kleppmann,Technology,Paperback,13.42,4.0,3941,4189,2021
+B01315,The Infinite Future of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,14.23,4.7,1313,3608,2022
+B01316,The Unreasonable Empire of Manson,Mark Manson,Self-Help,Hardcover,30.42,4.2,755,1290,2020
+B01317,The Brave Equation of Morrison,Toni Morrison,Fiction,Kindle,14.28,3.5,2250,4214,2022
+B01318,The Predictable Path of Harari,Yuval Noah Harari,Non-Fiction,Kindle,12.89,3.4,7133,4590,2016
+B01319,The Courageous Art of Ferriss,Tim Ferriss,Health & Wellness,Kindle,7.99,4.2,1877,4970,2015
+B01320,The Subtle Secrets of Skloot,Rebecca Skloot,Non-Fiction,Hardcover,20.08,4.2,624,1531,2020
+B01321,The Unreasonable Empire of Brown,Brené Brown,Self-Help,Kindle,6.89,4.7,3420,4749,2017
+B01322,The Unreasonable Horizon of Rooney,Sally Rooney,Romance,Paperback,15.89,5.0,5306,4724,2019
+B01323,The Atomic Strategy of Dalio,Ray Dalio,Business & Finance,Paperback,14.02,4.3,22707,11255,2023
+B01324,The Deep Code of Dalio,Ray Dalio,Business & Finance,Kindle,9.16,3.6,2149,4499,2022
+B01325,The Hidden Habits of Dalio,Ray Dalio,Business & Finance,Kindle,4.49,4.3,5097,4763,2011
+B01326,The Hidden Mind of Morrison,Toni Morrison,Fiction,Hardcover,36.98,4.8,5071,5020,2023
+B01327,The Lost Strategy of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,15.8,4.3,2514,4371,2020
+B01328,The Essential Equation of Noah,Trevor Noah,Biography & Memoir,Paperback,20.58,5.0,15067,10937,2016
+B01329,The Mindful Horizon of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,24.28,4.5,1295,3195,2020
+B01330,The Essential Echoes of Thiel,Peter Thiel,Business & Finance,Paperback,21.94,4.6,402,1500,2022
+B01331,The Subtle Horizon of Hazelwood,Ali Hazelwood,Romance,Kindle,5.23,4.4,1388,2728,2018
+B01332,The Brave Future of Ferriss,Tim Ferriss,Health & Wellness,Kindle,3.81,4.2,5040,6301,2020
+B01333,The Courageous Strategy of Harari,Yuval Noah Harari,Non-Fiction,Kindle,14.77,4.6,4631,5206,2021
+B01334,The Essential Mind of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,6.31,4.5,1713,2827,2019
+B01335,The Lost Code of Morrison,Toni Morrison,Fiction,Hardcover,30.66,4.5,438,956,2019
+B01336,The Lost World of Orwell,George Orwell,Fiction,Paperback,14.02,4.7,439,1996,2020
+B01337,The Modern Echoes of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,8.15,4.3,14153,8815,2019
+B01338,The Infinite Echoes of Ries,Eric Ries,Business & Finance,Kindle,11.1,4.7,9815,9366,2016
+B01339,The Subtle Habits of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,8.38,3.9,3158,6042,2010
+B01340,The Atomic Journey of King,Stephen King,Mystery & Thriller,Paperback,16.11,4.4,1364,2267,2018
+B01341,The Brave Paradox of Pollan,Michael Pollan,Health & Wellness,Paperback,17.58,4.6,528,1665,2021
+B01342,The Digital Code of Bryson,Bill Bryson,Non-Fiction,Hardcover,28.1,4.2,308,1033,2010
+B01343,The Digital Art of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,20.5,4.6,522,1991,2011
+B01344,The Brave Journey of Henry,Emily Henry,Romance,Kindle,5.96,4.4,822,2918,2020
+B01345,The Courageous Horizon of Thiel,Peter Thiel,Business & Finance,Kindle,13.61,4.4,127,785,2021
+B01346,The Silent Shadows of Thinker,Atomic Thinker,Self-Help,Paperback,17.81,4.3,914,2670,2019
+B01347,The Curious Future of Herbert,Frank Herbert,Sci-Fi & Fantasy,Hardcover,37.05,4.7,1393,2527,2022
+B01348,The Curious Equation of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Hardcover,20.33,4.2,4654,3888,2010
+B01349,The Digital Echoes of Skloot,Rebecca Skloot,Non-Fiction,Kindle,5.51,4.7,597,1572,2018
+B01350,The Mindful Paradox of Reid,Taylor Jenkins Reid,Romance,Kindle,5.22,4.7,2628,6174,2020
+B01351,The Silent Mind of Marquez,Gabriel Garcia Marquez,Fiction,Hardcover,28.3,3.8,2667,3098,2012
+B01352,The Unreasonable Journey of Knight,Phil Knight,Biography & Memoir,Hardcover,39.0,4.0,403,1003,2023
+B01353,The Predictable Art of Knight,Phil Knight,Biography & Memoir,Kindle,12.94,4.5,168,1289,2022
+B01354,The Courageous Art of Covey,Stephen Covey,Self-Help,Kindle,6.54,3.6,559,1920,2017
+B01355,The Silent Shadows of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,11.61,4.4,12321,8853,2012
+B01356,The Mindful Empire of Orwell,George Orwell,Fiction,Hardcover,21.54,4.8,13593,6298,2015
+B01357,The Modern Secrets of Grann,David Grann,Non-Fiction,Kindle,11.98,4.5,1885,3883,2021
+B01358,The Lost Path of Westover,Tara Westover,Biography & Memoir,Paperback,12.57,3.5,1814,3089,2020
+B01359,The Mindful Habits of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,23.99,4.5,1720,3147,2013
+B01360,The Unreasonable Empire Vol. 2,Dan Brown,Mystery & Thriller,Paperback,16.28,4.4,779,2051,2020
+B01361,The Mindful Art of Graham,Benjamin Graham,Business & Finance,Paperback,20.45,4.3,10807,10147,2015
+B01362,The Brave Shadows of Morrison,Toni Morrison,Fiction,Paperback,12.74,4.1,1686,2614,2021
+B01363,The Mindful Path of Hazelwood,Ali Hazelwood,Romance,Hardcover,27.17,4.6,1898,1955,2020
+B01364,The Predictable Paradox of Lee,Harper Lee,Fiction,Hardcover,23.85,4.1,1631,2532,2020
+B01365,The Digital Future of Graham,Benjamin Graham,Business & Finance,Paperback,19.84,4.6,517,1631,2010
+B01366,The Essential Strategy of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,9.96,4.9,159,1162,2017
+B01367,The Silent Secrets of Graham,Benjamin Graham,Business & Finance,Paperback,19.3,4.1,3234,3248,2022
+B01368,The Mindful Shadows of Christie,Agatha Christie,Mystery & Thriller,Paperback,16.49,4.6,2845,4322,2021
+B01369,The Predictable Equation of Skloot,Rebecca Skloot,Non-Fiction,Kindle,5.42,4.0,762,1816,2018
+B01370,The Digital Strategy of Rooney,Sally Rooney,Romance,Paperback,18.76,4.3,550,1544,2023
+B01371,The Hidden Art of Thinker,Atomic Thinker,Self-Help,Kindle,14.26,3.9,6097,5794,2015
+B01372,The Digital Mind of Hormozi,Alex Hormozi,Business & Finance,Paperback,10.94,4.6,3233,4407,2024
+B01373,The Deep Mind of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,8.18,4.5,323,1101,2020
+B01374,The Digital Path of Grann,David Grann,Non-Fiction,Kindle,13.8,4.2,3674,5800,2012
+B01375,The Curious Equation of Austen,Jane Austen,Fiction,Hardcover,35.82,5.0,495,1225,2016
+B01376,The Digital Code of Huberman,Andrew Huberman,Health & Wellness,Paperback,18.48,4.8,426,1283,2010
+B01377,The Silent Horizon of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,4.58,4.3,1817,4914,2018
+B01378,The Brave Mind of Covey,Stephen Covey,Self-Help,Hardcover,34.88,5.0,1052,1969,2015
+B01379,The Courageous World of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,9.32,4.6,4787,7421,2011
+B01380,The Digital Shadows of Carnegie,Dale Carnegie,Self-Help,Hardcover,21.3,4.5,3705,2733,2020
+B01381,The Hidden Secrets of Kleppmann,Martin Kleppmann,Technology,Paperback,22.14,3.9,1178,1560,2019
+B01382,The Courageous World of Thinker,Atomic Thinker,Self-Help,Kindle,12.34,4.9,4625,8895,2021
+B01383,The Curious Path of Huberman,Andrew Huberman,Health & Wellness,Hardcover,37.5,4.8,2514,3580,2012
+B01384,The Essential Equation of King,Stephen King,Mystery & Thriller,Kindle,3.37,4.1,1534,3566,2022
+B01385,The Unreasonable Horizon of Sparks,Nicholas Sparks,Romance,Hardcover,37.6,4.6,746,1394,2021
+B01386,The Deep Empire of Huyen,Chip Huyen,Technology,Paperback,19.04,4.6,2149,4240,2013
+B01387,The Unreasonable Future of Brown,Brené Brown,Self-Help,Paperback,22.78,4.2,1487,2197,2015
+B01388,The Essential Empire of Thinker,Atomic Thinker,Self-Help,Kindle,8.25,4.5,1849,3202,2013
+B01389,The Essential Equation of Hoover,Colleen Hoover,Fiction,Kindle,6.58,4.2,1227,2558,2017
+B01390,The Deep Empire of Graham,Benjamin Graham,Business & Finance,Paperback,12.19,4.7,1190,2080,2012
+B01391,The Curious Journey of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,12.05,4.5,34973,12677,2020
+B01392,The Unreasonable Habits of Grann,David Grann,Non-Fiction,Kindle,14.8,4.9,793,2392,2017
+B01393,The Mindful World of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,21.65,4.3,4387,5115,2022
+B01394,The Essential Mind of Ng,Andrew Ng,Technology,Kindle,9.26,5.0,1173,3647,2020
+B01395,The Infinite Horizon of Housel,Morgan Housel,Business & Finance,Kindle,6.93,4.9,1337,2823,2015
+B01396,The Hidden Secrets Vol. 2,Tim Ferriss,Health & Wellness,Paperback,17.68,4.3,5447,7304,2023
+B01397,The Hidden Strategy of Brown,Dan Brown,Mystery & Thriller,Paperback,12.77,4.1,823,1515,2022
+B01398,The Hidden Path of Skloot,Rebecca Skloot,Non-Fiction,Paperback,15.56,4.2,4362,6217,2022
+B01399,The Modern Paradox of Lewis,Michael Lewis,Non-Fiction,Paperback,12.62,4.0,3825,3539,2022
+B01400,The Subtle Paradox of Grann,David Grann,Non-Fiction,Paperback,18.99,4.3,1006,1844,2016
+B01401,The Silent Path of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,23.8,4.2,807,2420,2018
+B01402,The Predictable Horizon of Clear,James Clear,Self-Help,Paperback,21.4,5.0,2062,4892,2017
+B01403,The Predictable Equation of Thiel,Peter Thiel,Business & Finance,Kindle,5.44,4.4,173,1158,2022
+B01404,The Unreasonable Horizon of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,9.6,4.8,1421,2942,2010
+B01405,The Mindful Strategy of Clear,James Clear,Self-Help,Paperback,21.59,4.5,3084,4608,2015
+B01406,The Digital Strategy of Hoover,Colleen Hoover,Fiction,Paperback,13.54,4.6,13814,12774,2017
+B01407,The Predictable Horizon of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,4.04,4.2,297,1204,2017
+B01408,The Unreasonable Future of Lewis,Michael Lewis,Non-Fiction,Paperback,19.79,4.2,659,1850,2020
+B01409,The Lost Habits of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,14.55,4.7,9135,13390,2016
+B01410,The Curious Habits Vol. 2,Michael Lewis,Non-Fiction,Kindle,14.89,4.5,1864,5216,2018
+B01411,The Brave Strategy of Lewis,Michael Lewis,Non-Fiction,Kindle,10.13,4.4,67,537,2018
+B01412,The Subtle Horizon of Thiel,Peter Thiel,Business & Finance,Kindle,5.12,4.2,1234,3885,2021
+B01413,The Deep Future of Clear,James Clear,Self-Help,Kindle,7.82,4.3,3474,6157,2016
+B01414,The Infinite Empire of Grann,David Grann,Non-Fiction,Paperback,22.94,4.3,2841,3897,2013
+B01415,The Lost Journey of Thiel,Peter Thiel,Business & Finance,Paperback,16.5,4.7,2031,3220,2021
+B01416,The Deep Future of Thiel,Peter Thiel,Business & Finance,Hardcover,29.98,4.1,11236,6636,2023
+B01417,The Predictable Horizon of Orwell,George Orwell,Fiction,Kindle,9.91,4.0,1624,4387,2015
+B01418,The Atomic Habits of Haig,Matt Haig,Fiction,Paperback,19.24,4.3,3056,5063,2021
+B01419,The Predictable Echoes of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,12.51,4.2,1139,2196,2010
+B01420,The Essential Code of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,13.78,3.7,5605,5927,2022
+B01421,The Mindful Path Vol. 2,Brené Brown,Self-Help,Kindle,3.61,4.0,2246,4871,2017
+B01422,The Courageous Journey of Sparks,Nicholas Sparks,Romance,Kindle,12.69,4.3,6433,7507,2016
+B01423,The Hidden Empire of Ferriss,Tim Ferriss,Health & Wellness,Paperback,17.96,4.4,1027,2165,2014
+B01424,The Subtle Habits of Thiel,Peter Thiel,Business & Finance,Hardcover,36.73,4.1,781,1486,2021
+B01425,The Silent Secrets of Orwell,George Orwell,Fiction,Kindle,9.6,4.8,1249,4189,2020
+B01426,The Atomic Habits of Covey,Stephen Covey,Self-Help,Kindle,11.99,5.0,15533,12504,2015
+B01427,The Mindful Future of Lewis,Michael Lewis,Non-Fiction,Hardcover,22.27,4.4,340,1135,2012
+B01428,The Modern Art of Lewis,Michael Lewis,Non-Fiction,Kindle,13.03,4.4,895,2461,2016
+B01429,The Lost Echoes of Grann,David Grann,Non-Fiction,Paperback,20.15,5.0,1040,3173,2014
+B01430,The Predictable Journey of Obama,Michelle Obama,Biography & Memoir,Kindle,12.21,3.4,1849,2581,2019
+B01431,The Subtle Echoes of Harari,Yuval Noah Harari,Non-Fiction,Kindle,3.46,4.9,844,2592,2020
+B01432,The Silent Mind of Foley,Lucy Foley,Mystery & Thriller,Kindle,10.42,4.9,1385,4964,2015
+B01433,The Silent Equation of Carnegie,Dale Carnegie,Self-Help,Hardcover,22.79,3.9,3393,2761,2019
+B01434,The Atomic Paradox of Manson,Mark Manson,Self-Help,Paperback,16.62,4.6,4692,6214,2017
+B01435,The Courageous Secrets of Christie,Agatha Christie,Mystery & Thriller,Paperback,12.44,4.3,1034,2783,2023
+B01436,The Digital Equation of Thinker,Atomic Thinker,Self-Help,Kindle,3.11,4.6,3786,7904,2021
+B01437,The Curious Future of Harari,Yuval Noah Harari,Non-Fiction,Kindle,14.68,3.8,2630,4717,2016
+B01438,The Curious Paradox of Rooney,Sally Rooney,Romance,Paperback,22.07,4.2,826,2339,2023
+B01439,The Hidden Paradox of Austen,Jane Austen,Fiction,Paperback,14.3,4.1,471,1539,2022
+B01440,The Infinite Strategy of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,9.35,4.5,490,2336,2021
+B01441,The Brave Echoes of Austen,Jane Austen,Fiction,Kindle,7.88,4.4,1639,4489,2019
+B01442,The Predictable Equation of Harari,Yuval Noah Harari,Non-Fiction,Paperback,13.89,4.0,790,1708,2015
+B01443,The Subtle Art of Housel,Morgan Housel,Business & Finance,Paperback,11.57,4.4,1198,2558,2012
+B01444,The Atomic Paradox of Austen,Jane Austen,Fiction,Hardcover,22.27,4.6,6167,5409,2022
+B01445,The Mindful World of Skloot,Rebecca Skloot,Non-Fiction,Kindle,8.35,4.9,6102,8534,2020
+B01446,The Digital Path of Hoover,Colleen Hoover,Fiction,Paperback,18.33,4.1,858,2267,2016
+B01447,The Infinite Empire of Noah,Trevor Noah,Biography & Memoir,Kindle,4.11,4.0,1238,2011,2018
+B01448,The Predictable Path of Attia,Peter Attia,Health & Wellness,Paperback,13.27,4.8,2586,2966,2021
+B01449,The Brave World of Carnegie,Dale Carnegie,Self-Help,Kindle,4.51,4.4,1294,3899,2022
+B01450,The Silent Secrets of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,12.61,4.8,454,2073,2011
+B01451,The Subtle Paradox of Rooney,Sally Rooney,Romance,Kindle,7.34,4.8,2172,3616,2021
+B01452,The Predictable Mind of Noah,Trevor Noah,Biography & Memoir,Paperback,21.76,4.7,1046,2661,2019
+B01453,The Digital Horizon of Skloot,Rebecca Skloot,Non-Fiction,Kindle,10.93,4.8,12189,8475,2021
+B01454,The Unreasonable Journey of Skloot,Rebecca Skloot,Non-Fiction,Kindle,4.51,4.4,54,503,2022
+B01455,The Courageous Strategy of Dalio,Ray Dalio,Business & Finance,Hardcover,19.28,4.6,222,643,2012
+B01456,The Digital Mind of Knight,Phil Knight,Biography & Memoir,Paperback,17.71,4.4,716,1742,2020
+B01457,The Essential Shadows of Clear,James Clear,Self-Help,Paperback,12.06,4.4,2593,2826,2012
+B01458,The Silent Strategy of Sparks,Nicholas Sparks,Romance,Kindle,6.66,5.0,639,2807,2016
+B01459,The Curious Secrets of Orwell,George Orwell,Fiction,Paperback,11.78,3.8,3035,4299,2018
+B01460,The Predictable Equation of Russell,Stuart Russell,Technology,Kindle,3.3,4.2,267,1405,2022
+B01461,The Essential Empire of Bryson,Bill Bryson,Non-Fiction,Paperback,14.22,4.0,628,1869,2020
+B01462,The Curious Strategy of Westover,Tara Westover,Biography & Memoir,Paperback,13.5,4.8,3049,3237,2019
+B01463,The Subtle Echoes of Ries,Eric Ries,Business & Finance,Paperback,12.3,4.4,2842,3095,2022
+B01464,The Predictable Mind of Hoover,Colleen Hoover,Fiction,Kindle,11.41,3.7,4402,6786,2010
+B01465,The Predictable Art of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,14.54,4.4,2656,4937,2020
+B01466,The Hidden Art of Bryson,Bill Bryson,Non-Fiction,Kindle,4.44,4.5,1968,3878,2012
+B01467,The Courageous Journey of Bryson,Bill Bryson,Non-Fiction,Kindle,8.98,4.5,1748,2690,2020
+B01468,The Subtle Empire of Ries,Eric Ries,Business & Finance,Kindle,12.75,4.5,3171,7041,2014
+B01469,The Mindful Paradox of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,13.41,4.1,1039,2996,2011
+B01470,The Lost Mind of Ries,Eric Ries,Business & Finance,Paperback,18.92,4.5,5595,5390,2021
+B01471,The Digital Equation of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,12.22,4.8,2173,3480,2020
+B01472,The Lost Horizon of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,22.42,4.4,724,2054,2022
+B01473,The Modern Shadows of Hawkins,Paula Hawkins,Mystery & Thriller,Paperback,14.84,4.9,318,1601,2018
+B01474,The Deep Journey of Thinker,Atomic Thinker,Self-Help,Paperback,17.21,4.2,1160,2257,2020
+B01475,The Atomic Secrets of Thinker,Atomic Thinker,Self-Help,Kindle,8.5,4.5,2319,5580,2015
+B01476,The Atomic Mind of Covey,Stephen Covey,Self-Help,Kindle,12.59,4.8,2285,5274,2021
+B01477,The Mindful Strategy of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,19.07,4.6,444,1584,2014
+B01478,The Deep Empire Vol. 2,Colleen Hoover,Fiction,Kindle,13.04,3.6,4087,5427,2010
+B01479,The Curious Paradox of Lee,Harper Lee,Fiction,Kindle,3.6,4.5,115,872,2017
+B01480,The Modern Mind of Noah,Trevor Noah,Biography & Memoir,Kindle,3.3,4.8,37264,15000,2015
+B01481,The Brave Shadows of Skloot,Rebecca Skloot,Non-Fiction,Kindle,3.52,4.5,415,1951,2011
+B01482,The Brave World of Attia,Peter Attia,Health & Wellness,Kindle,4.51,4.4,563,1732,2017
+B01483,The Digital Art of Kim,Gene Kim,Technology,Kindle,7.58,4.1,2022,2665,2020
+B01484,The Mindful Strategy of Dalio,Ray Dalio,Business & Finance,Kindle,10.83,4.3,1928,5203,2011
+B01485,The Predictable Code of Ferriss,Tim Ferriss,Health & Wellness,Kindle,5.14,4.6,5677,7925,2018
+B01486,The Atomic Strategy of Reid,Taylor Jenkins Reid,Romance,Kindle,12.38,4.4,1912,3339,2017
+B01487,The Hidden Shadows of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,5.33,4.2,4484,7078,2017
+B01488,The Predictable Journey of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,11.29,4.3,557,2068,2018
+B01489,The Hidden Horizon of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,21.52,4.6,10868,8432,2013
+B01490,The Unreasonable Secrets of Thinker,Atomic Thinker,Self-Help,Paperback,17.25,3.8,568,1519,2019
+B01491,The Unreasonable Shadows Vol. 2,F. Scott Fitzgerald,Fiction,Kindle,5.69,4.3,288,991,2020
+B01492,The Predictable Art of Skloot,Rebecca Skloot,Non-Fiction,Paperback,21.02,4.3,26520,10311,2016
+B01493,The Curious Art of Clear,James Clear,Self-Help,Kindle,6.82,4.7,1494,3157,2012
+B01494,The Essential Secrets of Harari,Yuval Noah Harari,Non-Fiction,Kindle,8.65,4.5,786,2619,2018
+B01495,The Silent Mind of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,8.92,4.5,616,1960,2020
+B01496,The Mindful Echoes of Christie,Agatha Christie,Mystery & Thriller,Hardcover,31.0,4.2,758,1202,2015
+B01497,The Predictable Echoes of Skloot,Rebecca Skloot,Non-Fiction,Paperback,11.0,4.3,2805,4458,2021
+B01498,The Curious Path of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,12.73,4.8,3514,7862,2010
+B01499,The Deep Shadows of Austen,Jane Austen,Fiction,Paperback,22.11,4.4,1963,2282,2021
+B01500,The Essential Secrets of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,5.76,4.3,2969,4144,2013
+B01501,The Curious Code of Knight,Phil Knight,Biography & Memoir,Kindle,12.09,4.1,5944,6637,2015
+B01502,The Unreasonable Paradox of Kim,Gene Kim,Technology,Kindle,12.37,4.7,5766,10273,2017
+B01503,The Brave Paradox of Lee,Harper Lee,Fiction,Kindle,10.57,4.1,8289,6557,2015
+B01504,The Infinite Echoes of Skloot,Rebecca Skloot,Non-Fiction,Kindle,6.22,4.6,899,3518,2017
+B01505,The Unreasonable Journey of Brown,Dan Brown,Mystery & Thriller,Kindle,14.47,3.9,506,1247,2018
+B01506,The Atomic Future of Haig,Matt Haig,Fiction,Paperback,17.27,4.7,1983,4358,2021
+B01507,The Essential World of Grann,David Grann,Non-Fiction,Hardcover,33.32,4.4,182,775,2019
+B01508,The Curious Secrets of Lee,Harper Lee,Fiction,Kindle,3.05,4.1,1603,3818,2015
+B01509,The Subtle Horizon of Huberman,Andrew Huberman,Health & Wellness,Kindle,13.29,4.5,817,2990,2020
+B01510,The Infinite Echoes of Lewis,Michael Lewis,Non-Fiction,Kindle,13.31,4.6,5303,8053,2018
+B01511,The Modern Habits of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,22.42,4.6,4552,4088,2022
+B01512,The Predictable Strategy of Hormozi,Alex Hormozi,Business & Finance,Kindle,6.64,4.5,594,1908,2017
+B01513,The Modern World of Orwell,George Orwell,Fiction,Paperback,14.05,4.7,810,2009,2013
+B01514,The Predictable Habits of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,6.06,3.9,2036,2929,2018
+B01515,The Predictable Art of Haig,Matt Haig,Fiction,Kindle,14.78,4.3,1608,3967,2020
+B01516,The Predictable Code of Brown,Brené Brown,Self-Help,Paperback,23.42,4.6,4750,4298,2016
+B01517,The Deep Shadows Vol. 2,Jane Austen,Fiction,Kindle,10.14,4.4,1850,5033,2017
+B01518,The Brave Code of Haig,Matt Haig,Fiction,Hardcover,21.2,4.6,43159,12948,2022
+B01519,The Courageous Habits of Brown,Dan Brown,Mystery & Thriller,Paperback,23.92,4.1,1480,2640,2017
+B01520,The Curious Empire of Clear,James Clear,Self-Help,Kindle,3.42,4.4,1097,3552,2017
+B01521,The Predictable Empire of Kiyosaki,Robert Kiyosaki,Self-Help,Hardcover,35.23,4.4,1878,2621,2011
+B01522,The Lost Shadows of Flynn,Gillian Flynn,Mystery & Thriller,Paperback,13.72,4.5,1843,3979,2012
+B01523,The Brave Equation of Ries,Eric Ries,Business & Finance,Kindle,14.44,4.4,529,1597,2018
+B01524,The Infinite Journey of Austen,Jane Austen,Fiction,Kindle,13.5,4.4,4952,6093,2013
+B01525,The Unreasonable Empire of Walker,Matthew Walker,Health & Wellness,Kindle,6.83,4.6,986,2235,2020
+B01526,The Atomic Secrets of Austen,Jane Austen,Fiction,Paperback,10.63,4.4,437,1654,2013
+B01527,The Essential Empire Vol. 2,Atomic Thinker,Self-Help,Paperback,21.53,4.2,678,1513,2017
+B01528,The Mindful Shadows of Thinker,Atomic Thinker,Self-Help,Paperback,20.5,4.3,404,1626,2020
+B01529,The Hidden Strategy Vol. 2,James Clear,Self-Help,Paperback,11.3,4.0,251,682,2016
+B01530,The Digital Empire of Pollan,Michael Pollan,Health & Wellness,Paperback,20.48,4.4,14348,11854,2019
+B01531,The Predictable Empire of Ries,Eric Ries,Business & Finance,Paperback,19.42,4.1,18234,10632,2021
+B01532,The Digital Shadows of Obama,Michelle Obama,Biography & Memoir,Paperback,18.42,4.6,2295,4024,2022
+B01533,The Courageous Future of Hormozi,Alex Hormozi,Business & Finance,Kindle,5.35,4.1,585,2143,2020
+B01534,The Digital Future of Ries,Eric Ries,Business & Finance,Kindle,8.62,4.2,3111,3799,2022
+B01535,The Curious Echoes of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,9.9,4.6,3937,5736,2012
+B01536,The Essential Habits of Grann,David Grann,Non-Fiction,Kindle,13.92,4.4,1426,2620,2016
+B01537,The Atomic Horizon of Reid,Taylor Jenkins Reid,Romance,Paperback,20.71,4.3,327,1032,2012
+B01538,The Mindful Mind of Obama,Michelle Obama,Biography & Memoir,Hardcover,25.87,4.9,881,1690,2023
+B01539,The Curious Art of Brown,Dan Brown,Mystery & Thriller,Kindle,8.98,4.5,1284,2453,2018
+B01540,The Curious Habits of Ries,Eric Ries,Business & Finance,Kindle,8.86,4.6,1368,3672,2021
+B01541,The Digital Habits of Westover,Tara Westover,Biography & Memoir,Paperback,15.44,4.9,3950,6412,2022
+B01542,The Brave Empire of Clear,James Clear,Self-Help,Kindle,7.64,4.0,25357,15000,2018
+B01543,The Digital Empire of Ries,Eric Ries,Business & Finance,Kindle,6.49,4.4,11285,8808,2023
+B01544,The Atomic Journey of Brown,Dan Brown,Mystery & Thriller,Paperback,14.49,4.4,3308,4704,2020
+B01545,The Curious Horizon of Hormozi,Alex Hormozi,Business & Finance,Kindle,3.46,4.7,3007,5722,2014
+B01546,The Unreasonable Future Vol. 2,Dan Brown,Mystery & Thriller,Paperback,22.82,3.8,801,2212,2019
+B01547,The Hidden World of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,12.78,3.8,9472,8283,2022
+B01548,The Deep Equation of Covey,Stephen Covey,Self-Help,Kindle,7.26,4.0,4995,7534,2021
+B01549,The Modern Secrets of Christie,Agatha Christie,Mystery & Thriller,Kindle,5.53,4.4,1389,3522,2022
+B01550,The Unreasonable Journey of Dalio,Ray Dalio,Business & Finance,Kindle,11.34,4.9,2089,3535,2021
+B01551,The Curious Shadows of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,12.48,4.9,348,1833,2021
+B01552,The Lost World of Henry,Emily Henry,Romance,Kindle,6.93,4.2,1784,3125,2018
+B01553,The Deep Mind of Bryson,Bill Bryson,Non-Fiction,Kindle,12.65,5.0,771,2680,2016
+B01554,The Courageous Shadows of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Hardcover,27.13,4.8,634,1867,2022
+B01555,The Unreasonable Journey of Harari,Yuval Noah Harari,Non-Fiction,Kindle,9.62,4.4,11791,8111,2023
+B01556,The Brave Journey of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,17.12,4.6,4328,5158,2022
+B01557,The Courageous Art of Lee,Harper Lee,Fiction,Paperback,10.92,4.1,2249,2328,2011
+B01558,The Modern Horizon of Knight,Phil Knight,Biography & Memoir,Paperback,24.15,4.3,1358,2443,2020
+B01559,The Hidden World of Knight,Phil Knight,Biography & Memoir,Kindle,6.78,4.3,736,1744,2021
+B01560,The Lost Mind of Walker,Matthew Walker,Health & Wellness,Paperback,14.26,4.8,1929,3965,2016
+B01561,The Hidden Horizon of Lewis,Michael Lewis,Non-Fiction,Kindle,14.09,4.4,847,3262,2020
+B01562,The Infinite Paradox of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,9.17,4.5,1144,3923,2021
+B01563,The Hidden Future of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,11.19,4.4,3947,4598,2019
+B01564,The Predictable Code of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,11.62,4.1,516,2235,2018
+B01565,The Mindful Secrets of Graham,Benjamin Graham,Business & Finance,Kindle,5.2,4.3,10740,8440,2020
+B01566,The Deep Horizon Vol. 2,Gabriel Garcia Marquez,Fiction,Kindle,8.3,4.3,3027,6550,2017
+B01567,The Lost Art of Kim,Gene Kim,Technology,Kindle,7.58,3.5,2112,3689,2020
+B01568,The Courageous World of Lee,Harper Lee,Fiction,Paperback,24.11,4.0,8626,8612,2016
+B01569,The Essential Code of Gladwell,Malcolm Gladwell,Non-Fiction,Hardcover,23.29,4.6,4413,3102,2017
+B01570,The Hidden Mind of Bryson,Bill Bryson,Non-Fiction,Hardcover,19.98,4.0,275,676,2020
+B01571,The Atomic Equation of Hormozi,Alex Hormozi,Business & Finance,Hardcover,23.58,4.8,768,1595,2020
+B01572,The Curious Empire of Kiyosaki,Robert Kiyosaki,Self-Help,Hardcover,23.83,4.1,377,1090,2013
+B01573,The Courageous Empire of Huberman,Andrew Huberman,Health & Wellness,Paperback,10.24,4.8,932,1741,2016
+B01574,The Silent Path of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,12.56,5.0,1916,4050,2019
+B01575,The Curious Empire of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,21.96,4.4,6096,6028,2017
+B01576,The Hidden World of Attia,Peter Attia,Health & Wellness,Hardcover,29.08,4.4,795,1514,2022
+B01577,The Deep Mind of Grann,David Grann,Non-Fiction,Kindle,14.65,3.7,2045,3462,2022
+B01578,The Courageous Journey of Harari,Yuval Noah Harari,Non-Fiction,Paperback,20.72,4.8,1111,1800,2018
+B01579,The Lost Empire of Skloot,Rebecca Skloot,Non-Fiction,Kindle,7.21,4.5,14131,9473,2023
+B01580,The Deep Habits of Ries,Eric Ries,Business & Finance,Kindle,12.28,4.4,534,2140,2018
+B01581,The Atomic Habits Vol. 2,Jane Austen,Fiction,Kindle,10.3,4.9,2588,6965,2016
+B01582,The Silent Shadows of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,10.37,3.3,3389,3574,2023
+B01583,The Modern Echoes of Lee,Harper Lee,Fiction,Hardcover,36.29,4.6,10990,8524,2017
+B01584,The Modern Paradox of Clear,James Clear,Self-Help,Paperback,13.87,4.2,1361,2243,2023
+B01585,The Deep Paradox of Huberman,Andrew Huberman,Health & Wellness,Kindle,12.52,4.6,2176,5059,2019
+B01586,The Subtle Art of Dalio,Ray Dalio,Business & Finance,Kindle,6.08,5.0,1064,3823,2024
+B01587,The Unreasonable Habits of Lewis,Michael Lewis,Non-Fiction,Hardcover,21.03,4.4,1537,1719,2016
+B01588,The Curious World of Orwell,George Orwell,Fiction,Kindle,12.26,4.3,521,1746,2018
+B01589,The Predictable Secrets of King,Stephen King,Mystery & Thriller,Paperback,15.12,4.2,3899,3773,2019
+B01590,The Mindful Journey of Lewis,Michael Lewis,Non-Fiction,Kindle,9.14,4.7,7583,11399,2015
+B01591,The Courageous World of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,4.1,3.6,670,2292,2015
+B01592,The Atomic Code of Huberman,Andrew Huberman,Health & Wellness,Paperback,20.34,4.2,4991,6529,2014
+B01593,The Unreasonable Horizon of Hoover,Colleen Hoover,Fiction,Paperback,10.76,4.4,1016,2073,2016
+B01594,The Curious World of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,12.16,4.9,1967,4642,2020
+B01595,The Brave Strategy of Foley,Lucy Foley,Mystery & Thriller,Paperback,15.7,4.3,1804,3048,2024
+B01596,The Curious Strategy of Harari,Yuval Noah Harari,Non-Fiction,Kindle,13.12,3.9,1437,2353,2023
+B01597,The Predictable Horizon of Austen,Jane Austen,Fiction,Kindle,6.04,4.1,5051,7495,2021
+B01598,The Infinite Code of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,14.71,4.0,677,2085,2021
+B01599,The Digital Echoes of Knight,Phil Knight,Biography & Memoir,Paperback,14.68,4.5,1248,1804,2018
+B01600,The Digital Empire of Lewis,Michael Lewis,Non-Fiction,Kindle,4.63,4.5,2511,6282,2022
+B01601,The Brave Art of Knight,Phil Knight,Biography & Memoir,Paperback,19.14,4.5,10022,7057,2018
+B01602,The Courageous Shadows of Lewis,Michael Lewis,Non-Fiction,Kindle,9.55,4.2,12358,7546,2018
+B01603,The Brave Strategy of Grann,David Grann,Non-Fiction,Paperback,14.83,4.3,287,855,2023
+B01604,The Unreasonable Equation of Knight,Phil Knight,Biography & Memoir,Paperback,14.52,4.5,4339,4993,2011
+B01605,The Subtle Habits Vol. 2,Frank Herbert,Sci-Fi & Fantasy,Paperback,17.92,4.5,1266,1895,2018
+B01606,The Modern Empire of Harari,Yuval Noah Harari,Non-Fiction,Kindle,14.98,4.3,1454,3584,2018
+B01607,The Brave Horizon of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Kindle,10.78,4.5,2194,4820,2012
+B01608,The Lost Horizon of Orwell,George Orwell,Fiction,Kindle,13.78,4.3,612,2543,2023
+B01609,The Infinite Art of Kiyosaki,Robert Kiyosaki,Self-Help,Hardcover,37.01,4.3,461,1130,2021
+B01610,The Silent Echoes of Dalio,Ray Dalio,Business & Finance,Paperback,20.87,4.6,5878,6862,2013
+B01611,The Brave Equation of Housel,Morgan Housel,Business & Finance,Kindle,3.47,4.8,1094,3661,2018
+B01612,The Atomic Future of Lee,Harper Lee,Fiction,Paperback,24.19,4.2,336,1512,2017
+B01613,The Lost Code of Sparks,Nicholas Sparks,Romance,Kindle,11.18,4.8,5117,6470,2016
+B01614,The Mindful Habits of Orwell,George Orwell,Fiction,Kindle,4.67,4.4,2718,6059,2021
+B01615,The Digital Echoes of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,23.15,4.5,318,993,2013
+B01616,The Mindful Path of Reid,Taylor Jenkins Reid,Romance,Kindle,13.11,3.7,782,2142,2012
+B01617,The Hidden Horizon of Hawkins,Paula Hawkins,Mystery & Thriller,Hardcover,22.97,4.6,1572,2271,2013
+B01618,The Modern Journey of Weir,Andy Weir,Sci-Fi & Fantasy,Hardcover,30.36,4.4,3102,2865,2022
+B01619,The Deep Empire of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,7.22,4.7,2862,6979,2020
+B01620,The Predictable Secrets of Grann,David Grann,Non-Fiction,Paperback,14.82,4.8,3324,5311,2019
+B01621,The Silent Habits of Pollan,Michael Pollan,Health & Wellness,Kindle,14.49,4.4,1088,2339,2021
+B01622,The Mindful Future of Morrison,Toni Morrison,Fiction,Kindle,8.79,4.6,779,2177,2022
+B01623,The Digital Habits of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,14.63,3.6,486,1629,2016
+B01624,The Atomic Shadows of Harari,Yuval Noah Harari,Non-Fiction,Paperback,16.86,4.6,1227,2141,2023
+B01625,The Subtle World of Bryson,Bill Bryson,Non-Fiction,Paperback,12.84,3.5,13131,5409,2021
+B01626,The Mindful Empire of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,11.6,3.9,156,830,2022
+B01627,The Subtle Mind of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,15.3,4.6,17722,12809,2020
+B01628,The Hidden Empire of Hormozi,Alex Hormozi,Business & Finance,Paperback,23.35,4.8,2392,5239,2014
+B01629,The Courageous Equation of Ries,Eric Ries,Business & Finance,Paperback,13.38,4.1,805,2298,2021
+B01630,The Unreasonable Journey Vol. 2,Brené Brown,Self-Help,Kindle,6.71,4.5,3438,4818,2012
+B01631,The Predictable Paradox Vol. 2,Malcolm Gladwell,Non-Fiction,Kindle,7.18,4.8,882,3214,2016
+B01632,The Curious Shadows of Clear,James Clear,Self-Help,Kindle,10.82,5.0,308,1265,2010
+B01633,The Lost Horizon of Rooney,Sally Rooney,Romance,Hardcover,23.43,4.7,467,1650,2022
+B01634,The Deep Echoes of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Hardcover,26.22,4.4,1553,2341,2015
+B01635,The Brave Paradox of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,7.1,4.4,2027,3956,2014
+B01636,The Atomic Paradox of Ng,Andrew Ng,Technology,Kindle,10.89,4.7,3884,5345,2016
+B01637,The Curious Empire of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,12.6,4.9,396,1103,2017
+B01638,The Infinite Empire Vol. 2,Neil Gaiman,Sci-Fi & Fantasy,Paperback,22.87,4.0,308,1345,2021
+B01639,The Unreasonable World of Brown,Dan Brown,Mystery & Thriller,Kindle,4.72,4.3,3096,4211,2021
+B01640,The Brave Strategy of Harari,Yuval Noah Harari,Non-Fiction,Hardcover,36.87,4.3,5654,5358,2014
+B01641,The Mindful Empire of Haig,Matt Haig,Fiction,Kindle,9.29,4.6,782,2991,2014
+B01642,The Modern Horizon of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,18.82,4.2,807,2078,2022
+B01643,The Modern Paradox of Thinker,Atomic Thinker,Self-Help,Kindle,9.48,4.4,1364,2413,2022
+B01644,The Lost Horizon of Housel,Morgan Housel,Business & Finance,Paperback,18.48,5.0,1176,2969,2019
+B01645,The Predictable Empire of Grann,David Grann,Non-Fiction,Hardcover,26.03,4.4,3589,3966,2019
+B01646,The Essential World of Hoover,Colleen Hoover,Fiction,Hardcover,28.62,4.2,662,986,2018
+B01647,The Infinite Empire of Obama,Michelle Obama,Biography & Memoir,Kindle,9.2,4.0,5183,6712,2013
+B01648,The Curious Code of Pollan,Michael Pollan,Health & Wellness,Hardcover,25.07,4.6,1768,1778,2018
+B01649,The Atomic Code of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,14.85,4.9,837,3195,2015
+B01650,The Modern Future of Grann,David Grann,Non-Fiction,Kindle,14.09,4.1,1343,3503,2016
+B01651,The Hidden Strategy of Harari,Yuval Noah Harari,Non-Fiction,Paperback,12.19,4.6,1033,2589,2011
+B01652,The Atomic Art of Thiel,Peter Thiel,Business & Finance,Paperback,12.0,4.4,516,1112,2012
+B01653,The Essential Empire of Dalio,Ray Dalio,Business & Finance,Hardcover,36.33,4.2,3469,4093,2022
+B01654,The Deep Secrets of Lewis,Michael Lewis,Non-Fiction,Paperback,15.65,4.5,1715,3190,2019
+B01655,The Digital Secrets of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,10.18,4.5,1562,4649,2021
+B01656,The Atomic Art of Noah,Trevor Noah,Biography & Memoir,Paperback,21.47,4.0,1711,3028,2014
+B01657,The Mindful Art of Noah,Trevor Noah,Biography & Memoir,Kindle,10.71,4.6,9080,8488,2011
+B01658,The Deep Mind of Austen,Jane Austen,Fiction,Paperback,16.81,4.2,2752,3887,2019
+B01659,The Predictable Paradox of Austen,Jane Austen,Fiction,Kindle,14.55,4.4,2205,3208,2018
+B01660,The Mindful World of Hoover,Colleen Hoover,Fiction,Paperback,15.33,4.2,4000,5046,2015
+B01661,The Silent World of Flynn,Gillian Flynn,Mystery & Thriller,Hardcover,31.46,4.3,582,1032,2021
+B01662,The Modern Habits of Foley,Lucy Foley,Mystery & Thriller,Kindle,5.29,3.6,1155,2284,2019
+B01663,The Unreasonable Path of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,17.34,4.5,2491,3594,2017
+B01664,The Infinite Equation of Herbert,Frank Herbert,Sci-Fi & Fantasy,Hardcover,31.69,5.0,7141,7916,2021
+B01665,The Lost Paradox of Haig,Matt Haig,Fiction,Paperback,14.6,4.4,1556,2971,2019
+B01666,The Deep World of Clear,James Clear,Self-Help,Kindle,6.33,4.4,406,1480,2021
+B01667,The Predictable Echoes of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,12.3,4.7,220,1069,2021
+B01668,The Brave Journey of Lee,Harper Lee,Fiction,Paperback,12.74,4.3,7266,5292,2016
+B01669,The Essential Mind of Grann,David Grann,Non-Fiction,Kindle,5.34,4.6,1452,3739,2016
+B01670,The Infinite Horizon of Graham,Benjamin Graham,Business & Finance,Kindle,11.73,3.9,2096,2839,2017
+B01671,The Mindful Shadows of Isaacson,Walter Isaacson,Biography & Memoir,Paperback,14.49,4.2,784,1743,2021
+B01672,The Curious World of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,19.57,4.2,2621,4489,2019
+B01673,The Digital Path of Carnegie,Dale Carnegie,Self-Help,Hardcover,35.44,4.4,443,1149,2020
+B01674,The Curious Secrets of Pollan,Michael Pollan,Health & Wellness,Kindle,3.74,4.7,5134,5723,2022
+B01675,The Mindful World of Austen,Jane Austen,Fiction,Paperback,23.32,4.4,834,1666,2019
+B01676,The Silent Path of Thiel,Peter Thiel,Business & Finance,Paperback,10.81,4.4,7206,6830,2019
+B01677,The Atomic World of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,17.61,4.1,1803,2715,2015
+B01678,The Infinite Path of Morrison,Toni Morrison,Fiction,Kindle,4.74,4.7,8195,11349,2023
+B01679,The Essential Habits of Ries,Eric Ries,Business & Finance,Hardcover,20.96,4.4,3122,2318,2022
+B01680,The Infinite Mind of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Hardcover,24.42,4.0,282,587,2019
+B01681,The Subtle Equation of Haig,Matt Haig,Fiction,Hardcover,21.19,4.5,266,932,2010
+B01682,The Unreasonable Journey of King,Stephen King,Mystery & Thriller,Kindle,3.56,4.3,942,2684,2019
+B01683,The Modern Strategy of Austen,Jane Austen,Fiction,Kindle,13.11,4.9,7495,11774,2022
+B01684,The Lost Secrets of Hazelwood,Ali Hazelwood,Romance,Paperback,21.34,4.0,2699,4228,2021
+B01685,The Unreasonable Shadows of Orwell,George Orwell,Fiction,Kindle,6.92,4.3,667,1565,2022
+B01686,The Silent Horizon of Ries,Eric Ries,Business & Finance,Kindle,13.21,4.4,6995,10779,2012
+B01687,The Digital Journey of Skloot,Rebecca Skloot,Non-Fiction,Paperback,19.96,4.8,1493,3984,2021
+B01688,The Modern Echoes of Housel,Morgan Housel,Business & Finance,Kindle,12.91,4.9,2702,6188,2015
+B01689,The Silent Journey of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,11.27,4.8,705,2640,2021
+B01690,The Brave Secrets of Kleppmann,Martin Kleppmann,Technology,Kindle,3.99,4.1,6192,8486,2018
+B01691,The Courageous Echoes of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,17.55,4.8,2557,5164,2018
+B01692,The Brave Habits of Hawkins,Paula Hawkins,Mystery & Thriller,Hardcover,34.18,5.0,5259,3601,2020
+B01693,The Subtle Art of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,8.3,4.0,6219,7851,2022
+B01694,The Digital Journey of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,17.62,4.7,711,1584,2014
+B01695,The Curious Path of Thinker,Atomic Thinker,Self-Help,Kindle,11.05,4.8,3181,7044,2022
+B01696,The Lost Paradox of Clear,James Clear,Self-Help,Hardcover,22.67,4.3,9321,5847,2023
+B01697,The Unreasonable Shadows of Reid,Taylor Jenkins Reid,Romance,Kindle,8.58,4.3,311,1415,2019
+B01698,The Essential Strategy of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,13.98,4.0,2986,5017,2020
+B01699,The Predictable Strategy of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Hardcover,20.12,4.8,8092,7799,2021
+B01700,The Predictable Shadows of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,9.77,4.3,739,2716,2020
+B01701,The Mindful Path of Russell,Stuart Russell,Technology,Kindle,13.27,4.7,2660,4208,2022
+B01702,The Essential Path of Orwell,George Orwell,Fiction,Kindle,7.95,4.8,715,2094,2015
+B01703,The Unreasonable Empire of Gladwell,Malcolm Gladwell,Non-Fiction,Hardcover,35.26,4.7,3707,3399,2022
+B01704,The Hidden Path of Lee,Harper Lee,Fiction,Kindle,4.87,4.6,326,1823,2023
+B01705,The Deep Future of Rooney,Sally Rooney,Romance,Paperback,19.98,4.6,1571,3758,2021
+B01706,The Subtle Secrets of Brown,Dan Brown,Mystery & Thriller,Kindle,4.72,3.8,979,2577,2011
+B01707,The Courageous Shadows of Morrison,Toni Morrison,Fiction,Hardcover,23.01,3.9,11784,4424,2017
+B01708,The Courageous Habits of Bryson,Bill Bryson,Non-Fiction,Hardcover,29.21,4.7,2982,3211,2016
+B01709,The Digital Echoes of Walker,Matthew Walker,Health & Wellness,Paperback,18.2,4.8,4078,5770,2019
+B01710,The Infinite World of Brown,Dan Brown,Mystery & Thriller,Kindle,7.86,4.4,262,1645,2014
+B01711,The Lost Shadows of Skloot,Rebecca Skloot,Non-Fiction,Kindle,5.6,4.3,1674,3027,2021
+B01712,The Unreasonable Empire Vol. 3,Malcolm Gladwell,Non-Fiction,Paperback,10.53,4.0,5132,5256,2016
+B01713,The Unreasonable Path of Brown,Brené Brown,Self-Help,Paperback,17.58,4.4,8741,6202,2022
+B01714,The Digital World of Christie,Agatha Christie,Mystery & Thriller,Kindle,5.53,4.2,3261,3756,2024
+B01715,The Unreasonable Echoes of Orwell,George Orwell,Fiction,Kindle,13.29,4.3,1311,2858,2015
+B01716,The Hidden Equation of Sparks,Nicholas Sparks,Romance,Hardcover,28.65,4.0,2868,3511,2023
+B01717,The Brave Habits of Gladwell,Malcolm Gladwell,Non-Fiction,Paperback,17.53,4.3,521,1384,2019
+B01718,The Infinite World of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,6.41,4.6,1220,3500,2020
+B01719,The Deep Mind of Thinker,Atomic Thinker,Self-Help,Kindle,11.35,3.7,6003,6061,2019
+B01720,The Essential Mind of Morrison,Toni Morrison,Fiction,Paperback,24.61,4.6,1460,2923,2020
+B01721,The Lost World of Rooney,Sally Rooney,Romance,Kindle,7.07,4.1,5469,5654,2017
+B01722,The Modern Secrets of Orwell,George Orwell,Fiction,Hardcover,34.72,4.2,1231,1635,2023
+B01723,The Deep Art of Herbert,Frank Herbert,Sci-Fi & Fantasy,Hardcover,23.45,3.5,17473,5889,2021
+B01724,The Digital Shadows of Rooney,Sally Rooney,Romance,Hardcover,35.04,4.5,1035,1529,2017
+B01725,The Essential Horizon of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,19.77,4.6,4049,6645,2016
+B01726,The Lost World of Austen,Jane Austen,Fiction,Paperback,16.17,4.5,694,1925,2020
+B01727,The Brave Empire of Skloot,Rebecca Skloot,Non-Fiction,Kindle,12.07,4.4,8972,11840,2016
+B01728,The Curious Empire of Manson,Mark Manson,Self-Help,Kindle,13.7,3.9,1287,2771,2018
+B01729,The Atomic Equation of Manson,Mark Manson,Self-Help,Kindle,6.84,4.3,802,2564,2018
+B01730,The Predictable Shadows of Manson,Mark Manson,Self-Help,Kindle,3.86,4.3,3742,6782,2016
+B01731,The Deep Equation of Graham,Benjamin Graham,Business & Finance,Kindle,4.57,4.5,5244,6079,2019
+B01732,The Silent Habits of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,10.25,5.0,10906,8981,2016
+B01733,The Subtle Empire of Dalio,Ray Dalio,Business & Finance,Paperback,13.26,4.8,3496,5114,2021
+B01734,The Lost Empire of Hormozi,Alex Hormozi,Business & Finance,Kindle,9.84,4.2,8365,7609,2018
+B01735,The Subtle Code of Isaacson,Walter Isaacson,Biography & Memoir,Kindle,5.72,4.4,173,1037,2015
+B01736,The Brave Echoes of Hoover,Colleen Hoover,Fiction,Kindle,8.24,4.1,616,2371,2012
+B01737,The Predictable Habits of Knight,Phil Knight,Biography & Memoir,Paperback,21.79,4.4,1238,3126,2018
+B01738,The Brave Empire of Orwell,George Orwell,Fiction,Kindle,4.92,4.6,2003,2974,2015
+B01739,The Lost Secrets of Attia,Peter Attia,Health & Wellness,Paperback,19.58,4.6,3759,6097,2018
+B01740,The Brave Code of Brown,Dan Brown,Mystery & Thriller,Kindle,9.68,4.2,1365,2194,2018
+B01741,The Modern Art of Obama,Michelle Obama,Biography & Memoir,Kindle,6.36,4.3,1298,2760,2021
+B01742,The Subtle Code of Rooney,Sally Rooney,Romance,Hardcover,25.88,4.0,2894,2825,2016
+B01743,The Modern World of Hawkins,Paula Hawkins,Mystery & Thriller,Paperback,12.06,4.9,172,1018,2016
+B01744,The Brave World of Kiyosaki,Robert Kiyosaki,Self-Help,Paperback,22.75,4.8,2247,3378,2017
+B01745,The Curious Strategy of Gladwell,Malcolm Gladwell,Non-Fiction,Hardcover,22.94,5.0,6474,5263,2019
+B01746,The Modern Art of Christie,Agatha Christie,Mystery & Thriller,Kindle,6.99,4.8,820,1983,2010
+B01747,The Atomic Code of Christie,Agatha Christie,Mystery & Thriller,Kindle,9.42,4.5,3721,7139,2021
+B01748,The Courageous Echoes of Walker,Matthew Walker,Health & Wellness,Kindle,12.72,4.2,914,2861,2018
+B01749,The Modern Code of Ferriss,Tim Ferriss,Health & Wellness,Kindle,14.21,4.0,312,1018,2020
+B01750,The Deep World of Bryson,Bill Bryson,Non-Fiction,Kindle,4.44,4.3,432,1688,2020
+B01751,The Modern Horizon of Lee,Harper Lee,Fiction,Kindle,11.27,4.1,2329,4224,2021
+B01752,The Mindful Shadows of Russell,Stuart Russell,Technology,Kindle,13.9,3.7,2546,3712,2014
+B01753,The Predictable Secrets of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,11.78,4.0,486,1495,2018
+B01754,The Essential Empire of Grann,David Grann,Non-Fiction,Kindle,12.2,4.2,572,1945,2023
+B01755,The Predictable Habits of Pollan,Michael Pollan,Health & Wellness,Kindle,9.11,4.7,1635,5047,2017
+B01756,The Modern Empire of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,12.61,3.8,38008,15000,2022
+B01757,The Infinite Future of Dalio,Ray Dalio,Business & Finance,Kindle,5.76,4.5,2685,4934,2018
+B01758,The Subtle Secrets of Russell,Stuart Russell,Technology,Paperback,15.68,4.7,6435,6873,2012
+B01759,The Deep Mind of Westover,Tara Westover,Biography & Memoir,Paperback,19.22,4.4,1063,2565,2020
+B01760,The Lost Paradox of Ries,Eric Ries,Business & Finance,Paperback,12.37,4.4,888,1516,2019
+B01761,The Hidden Paradox of Thinker,Atomic Thinker,Self-Help,Paperback,23.0,4.3,2073,3446,2021
+B01762,The Courageous Equation of Marquez,Gabriel Garcia Marquez,Fiction,Hardcover,35.59,4.5,1449,1687,2018
+B01763,The Deep Habits of Sparks,Nicholas Sparks,Romance,Paperback,24.33,3.6,4103,5190,2020
+B01764,The Unreasonable Journey of Grann,David Grann,Non-Fiction,Hardcover,36.85,4.1,1439,1508,2019
+B01765,The Hidden Future of Housel,Morgan Housel,Business & Finance,Kindle,11.97,4.6,3570,4219,2015
+B01766,The Courageous Art of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,14.54,4.0,111,481,2011
+B01767,The Hidden Secrets of Attia,Peter Attia,Health & Wellness,Kindle,14.13,5.0,4650,9453,2017
+B01768,The Brave Equation of Dalio,Ray Dalio,Business & Finance,Kindle,7.41,4.1,9990,8447,2022
+B01769,The Subtle Code of Morrison,Toni Morrison,Fiction,Kindle,12.66,4.1,922,2531,2022
+B01770,The Digital Secrets of Bryson,Bill Bryson,Non-Fiction,Hardcover,23.78,4.1,6044,5578,2021
+B01771,The Digital Future of Kiyosaki,Robert Kiyosaki,Self-Help,Hardcover,27.04,4.6,657,1298,2019
+B01772,The Digital Future of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Hardcover,39.92,4.6,329,1032,2010
+B01773,The Infinite Mind of Attia,Peter Attia,Health & Wellness,Paperback,21.92,4.3,542,1911,2016
+B01774,The Hidden Journey of Clear,James Clear,Self-Help,Kindle,12.62,4.5,1370,4342,2023
+B01775,The Mindful Journey of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,16.74,4.0,315,913,2023
+B01776,The Unreasonable Mind of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Hardcover,23.64,4.3,1859,2109,2018
+B01777,The Curious Secrets of Carnegie,Dale Carnegie,Self-Help,Kindle,10.84,3.9,5130,4550,2012
+B01778,The Silent Habits of Rooney,Sally Rooney,Romance,Kindle,6.71,4.7,1061,3432,2016
+B01779,The Deep Journey of Pollan,Michael Pollan,Health & Wellness,Hardcover,31.87,4.3,1613,1615,2015
+B01780,The Courageous Code of Rooney,Sally Rooney,Romance,Hardcover,27.56,4.4,394,1367,2021
+B01781,The Predictable Future of Lee,Harper Lee,Fiction,Kindle,12.26,4.9,1724,4483,2012
+B01782,The Silent Art of Foley,Lucy Foley,Mystery & Thriller,Kindle,14.33,4.3,255,1447,2014
+B01783,The Digital Art of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,14.8,4.7,4089,7215,2018
+B01784,The Mindful Art of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,21.3,4.3,362,1361,2021
+B01785,The Deep Echoes of Hoover,Colleen Hoover,Fiction,Paperback,18.75,3.7,2005,3203,2016
+B01786,The Lost World of Foley,Lucy Foley,Mystery & Thriller,Paperback,20.48,4.3,1980,3960,2018
+B01787,The Predictable Equation Vol. 2,Rebecca Skloot,Non-Fiction,Hardcover,26.94,4.3,2359,2797,2024
+B01788,The Subtle Empire of King,Stephen King,Mystery & Thriller,Kindle,14.77,4.3,752,2345,2018
+B01789,The Brave Art of Carnegie,Dale Carnegie,Self-Help,Paperback,19.07,4.2,40407,15000,2014
+B01790,The Brave Code of Noah,Trevor Noah,Biography & Memoir,Paperback,23.98,4.3,3163,3208,2019
+B01791,The Infinite Journey of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,16.57,4.2,9323,9462,2022
+B01792,The Essential Echoes of Knight,Phil Knight,Biography & Memoir,Kindle,10.33,5.0,3217,7820,2022
+B01793,The Digital Future of Ferriss,Tim Ferriss,Health & Wellness,Kindle,13.73,4.3,1758,3637,2011
+B01794,The Curious Art of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,23.02,4.1,14597,11094,2022
+B01795,The Essential Equation of Lee,Harper Lee,Fiction,Paperback,10.83,5.0,327,1100,2017
+B01796,The Atomic Journey of Covey,Stephen Covey,Self-Help,Hardcover,25.72,4.2,1959,1780,2021
+B01797,The Digital Echoes of Covey,Stephen Covey,Self-Help,Paperback,16.12,4.8,729,1523,2011
+B01798,The Lost Code of Kiyosaki,Robert Kiyosaki,Self-Help,Kindle,4.47,4.5,975,2733,2021
+B01799,The Hidden Art of Ng,Andrew Ng,Technology,Kindle,4.68,4.0,3212,4905,2019
+B01800,The Curious Code of Gladwell,Malcolm Gladwell,Non-Fiction,Hardcover,30.49,4.5,977,1932,2022
+B01801,The Predictable World of Dalio,Ray Dalio,Business & Finance,Paperback,11.93,3.8,1029,2477,2011
+B01802,The Digital Art of Sparks,Nicholas Sparks,Romance,Paperback,16.03,4.3,503,1778,2016
+B01803,The Predictable Horizon of Haig,Matt Haig,Fiction,Kindle,10.85,4.6,1655,3277,2019
+B01804,The Modern Journey of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,21.13,4.0,4011,3295,2019
+B01805,The Predictable Secrets of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,15.27,4.7,444,1581,2023
+B01806,The Unreasonable Strategy of Thinker,Atomic Thinker,Self-Help,Kindle,4.53,4.5,655,2551,2021
+B01807,The Silent Secrets of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,18.16,4.6,885,2896,2023
+B01808,The Modern Path of Harari,Yuval Noah Harari,Non-Fiction,Kindle,10.85,4.0,1108,3125,2014
+B01809,The Predictable Horizon Vol. 2,Tara Westover,Biography & Memoir,Hardcover,33.15,4.1,2406,2919,2013
+B01810,The Courageous Mind of Orwell,George Orwell,Fiction,Kindle,11.19,4.4,16321,15000,2022
+B01811,The Digital Strategy of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,14.7,4.2,286,1487,2010
+B01812,The Deep Equation of Noah,Trevor Noah,Biography & Memoir,Paperback,11.92,4.7,360,1074,2018
+B01813,The Subtle Equation of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,24.55,4.5,484,1480,2018
+B01814,The Infinite Code of Skloot,Rebecca Skloot,Non-Fiction,Paperback,22.95,4.1,924,1529,2020
+B01815,The Lost Future of Manson,Mark Manson,Self-Help,Kindle,8.62,4.1,1356,2744,2020
+B01816,The Silent Secrets of Thiel,Peter Thiel,Business & Finance,Kindle,8.17,4.5,2665,5031,2022
+B01817,The Predictable Paradox Vol. 3,Jane Austen,Fiction,Paperback,11.12,4.5,664,1662,2021
+B01818,The Deep Code of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,9.43,3.8,1105,2755,2022
+B01819,The Infinite Habits of Huyen,Chip Huyen,Technology,Hardcover,25.72,4.2,2041,3214,2019
+B01820,The Unreasonable Secrets of Noah,Trevor Noah,Biography & Memoir,Paperback,15.0,4.4,6008,5684,2019
+B01821,The Brave Strategy of Thiel,Peter Thiel,Business & Finance,Kindle,4.13,4.4,1706,2790,2021
+B01822,The Silent Path of Harari,Yuval Noah Harari,Non-Fiction,Hardcover,31.57,4.4,2004,2484,2017
+B01823,The Mindful Path of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,17.54,4.5,107,880,2016
+B01824,The Lost Habits of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,6.91,4.6,2171,5505,2024
+B01825,The Lost Shadows of Hoover,Colleen Hoover,Fiction,Paperback,15.06,5.0,2573,5110,2017
+B01826,The Infinite Horizon of Flynn,Gillian Flynn,Mystery & Thriller,Paperback,15.31,4.9,12975,10646,2020
+B01827,The Infinite Art Vol. 2,Rebecca Skloot,Non-Fiction,Kindle,8.99,4.6,4523,8037,2017
+B01828,The Brave Art of Clear,James Clear,Self-Help,Hardcover,35.2,4.9,1037,2662,2018
+B01829,The Courageous Mind of Bryson,Bill Bryson,Non-Fiction,Paperback,24.18,5.0,618,1932,2020
+B01830,The Digital Paradox of Clear,James Clear,Self-Help,Kindle,9.87,3.9,7219,6468,2017
+B01831,The Hidden Future of Clear,James Clear,Self-Help,Kindle,7.4,4.0,2109,4488,2010
+B01832,The Curious Paradox of Orwell,George Orwell,Fiction,Paperback,19.45,4.1,8307,7710,2020
+B01833,The Brave Paradox of Graham,Benjamin Graham,Business & Finance,Kindle,11.76,4.1,1891,3015,2022
+B01834,The Silent World Vol. 2,Gillian Flynn,Mystery & Thriller,Hardcover,36.01,3.9,921,1764,2016
+B01835,The Deep Strategy of Lee,Harper Lee,Fiction,Hardcover,25.71,4.0,3345,3455,2017
+B01836,The Deep Strategy of Lewis,Michael Lewis,Non-Fiction,Hardcover,36.64,4.2,1743,2555,2011
+B01837,The Brave Paradox of Sparks,Nicholas Sparks,Romance,Hardcover,30.87,4.6,701,1572,2020
+B01838,The Atomic World of Henry,Emily Henry,Romance,Kindle,9.91,4.4,957,3442,2022
+B01839,The Predictable Paradox of Hazelwood,Ali Hazelwood,Romance,Kindle,3.28,3.7,947,2221,2016
+B01840,The Silent Shadows of Haig,Matt Haig,Fiction,Kindle,8.79,4.8,3907,4549,2022
+B01841,The Silent Habits of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,4.31,4.1,3087,5995,2021
+B01842,The Silent Journey of Knight,Phil Knight,Biography & Memoir,Kindle,6.32,4.9,5552,10004,2017
+B01843,The Modern Journey of Hawkins,Paula Hawkins,Mystery & Thriller,Hardcover,39.7,4.7,1851,2756,2016
+B01844,The Infinite Shadows of Lewis,Michael Lewis,Non-Fiction,Paperback,18.32,4.4,11929,7581,2014
+B01845,The Predictable Empire of Housel,Morgan Housel,Business & Finance,Paperback,12.11,4.5,5245,4402,2018
+B01846,The Silent Mind of Noah,Trevor Noah,Biography & Memoir,Paperback,11.49,4.4,1054,2621,2021
+B01847,The Subtle Journey of Thinker,Atomic Thinker,Self-Help,Paperback,22.6,4.4,1253,2137,2018
+B01848,The Unreasonable Equation of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,12.12,4.2,2149,3101,2014
+B01849,The Predictable World of Haig,Matt Haig,Fiction,Kindle,4.14,4.6,1580,3911,2019
+B01850,The Brave Empire of Haig,Matt Haig,Fiction,Kindle,13.49,4.6,37507,15000,2019
+B01851,The Deep Path of Austen,Jane Austen,Fiction,Paperback,14.51,5.0,701,1676,2021
+B01852,The Subtle Art of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,12.77,4.4,5411,7466,2020
+B01853,The Hidden World of Walker,Matthew Walker,Health & Wellness,Kindle,10.36,4.3,773,2728,2020
+B01854,The Unreasonable Secrets of Ries,Eric Ries,Business & Finance,Kindle,11.62,5.0,1878,3828,2017
+B01855,The Infinite Code of Harari,Yuval Noah Harari,Non-Fiction,Paperback,23.45,3.4,6474,3436,2022
+B01856,The Unreasonable Journey of Haig,Matt Haig,Fiction,Kindle,13.22,5.0,1814,4160,2016
+B01857,The Infinite Equation of Walker,Matthew Walker,Health & Wellness,Paperback,10.0,4.1,693,1220,2013
+B01858,The Modern Future of Kim,Gene Kim,Technology,Kindle,14.88,4.4,293,1757,2015
+B01859,The Curious World of Covey,Stephen Covey,Self-Help,Kindle,5.75,3.8,2037,4629,2022
+B01860,The Silent World of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,11.72,4.8,1526,4997,2017
+B01861,The Mindful Horizon of Herbert,Frank Herbert,Sci-Fi & Fantasy,Kindle,12.75,4.4,1001,3125,2015
+B01862,The Courageous Journey of Henry,Emily Henry,Romance,Kindle,5.83,4.2,2801,5309,2022
+B01863,The Mindful World of Grann,David Grann,Non-Fiction,Kindle,3.15,4.8,553,2641,2016
+B01864,The Lost Horizon of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,10.93,4.3,5183,5931,2010
+B01865,The Hidden Future of Herbert,Frank Herbert,Sci-Fi & Fantasy,Hardcover,23.06,4.0,400,685,2022
+B01866,The Essential Secrets of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,23.06,4.4,1302,2162,2017
+B01867,The Digital Empire of Carnegie,Dale Carnegie,Self-Help,Paperback,23.31,4.2,430,1201,2018
+B01868,The Digital Shadows of Fitzgerald,F. Scott Fitzgerald,Fiction,Kindle,11.48,4.7,1728,5339,2017
+B01869,The Lost Habits of Covey,Stephen Covey,Self-Help,Kindle,6.22,4.2,7427,8106,2022
+B01870,The Modern Habits of Covey,Stephen Covey,Self-Help,Paperback,19.13,4.3,9631,7565,2020
+B01871,The Curious Strategy of Hoover,Colleen Hoover,Fiction,Kindle,3.95,4.2,3126,6094,2021
+B01872,The Silent Shadows of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,7.21,4.4,933,2982,2015
+B01873,The Curious Paradox of Haig,Matt Haig,Fiction,Paperback,20.92,4.3,2537,4751,2012
+B01874,The Infinite Echoes Vol. 2,Eric Ries,Business & Finance,Paperback,20.03,4.3,2418,2546,2022
+B01875,The Unreasonable Mind of Bryson,Bill Bryson,Non-Fiction,Hardcover,21.69,4.6,2141,2395,2012
+B01876,The Digital Empire Vol. 2,Michael Lewis,Non-Fiction,Paperback,12.3,4.4,2218,4028,2021
+B01877,The Infinite Equation of Skloot,Rebecca Skloot,Non-Fiction,Kindle,6.71,3.7,1456,3558,2016
+B01878,The Courageous Echoes of Housel,Morgan Housel,Business & Finance,Hardcover,31.77,4.6,1951,2958,2016
+B01879,The Subtle Art of Harari,Yuval Noah Harari,Non-Fiction,Paperback,20.3,3.7,5304,5547,2016
+B01880,The Atomic Art of Dalio,Ray Dalio,Business & Finance,Paperback,22.64,4.6,121,695,2016
+B01881,The Lost Future of Foley,Lucy Foley,Mystery & Thriller,Hardcover,29.45,4.5,2989,3194,2015
+B01882,The Subtle Paradox of Brown,Brené Brown,Self-Help,Paperback,22.31,4.5,933,2058,2021
+B01883,The Courageous Secrets of Knight,Phil Knight,Biography & Memoir,Kindle,13.25,4.4,1720,4978,2016
+B01884,The Infinite Future of Hoover,Colleen Hoover,Fiction,Paperback,22.08,4.3,264,1207,2018
+B01885,The Mindful Strategy of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,22.01,3.8,579,1205,2018
+B01886,The Subtle Mind Vol. 2,Brandon Sanderson,Sci-Fi & Fantasy,Hardcover,22.55,3.7,1395,1771,2019
+B01887,The Silent Empire of Carnegie,Dale Carnegie,Self-Help,Kindle,6.96,4.6,268,1645,2019
+B01888,The Unreasonable Equation of Attia,Peter Attia,Health & Wellness,Kindle,5.56,4.5,858,2934,2023
+B01889,The Mindful Mind of Flynn,Gillian Flynn,Mystery & Thriller,Kindle,7.46,4.5,346,1241,2017
+B01890,The Predictable Future of Hazelwood,Ali Hazelwood,Romance,Kindle,10.01,4.2,1573,4131,2020
+B01891,The Subtle World of Harari,Yuval Noah Harari,Non-Fiction,Paperback,20.26,4.5,1184,1766,2018
+B01892,The Unreasonable Art of Harari,Yuval Noah Harari,Non-Fiction,Kindle,5.05,3.8,2407,4290,2013
+B01893,The Modern Horizon of Housel,Morgan Housel,Business & Finance,Kindle,6.14,5.0,4393,7547,2018
+B01894,The Deep Equation of Foley,Lucy Foley,Mystery & Thriller,Kindle,14.56,3.8,2603,3143,2021
+B01895,The Courageous Habits of Ries,Eric Ries,Business & Finance,Paperback,11.71,4.8,836,2049,2015
+B01896,The Essential Equation of Graham,Benjamin Graham,Business & Finance,Hardcover,35.69,4.6,701,1445,2018
+B01897,The Infinite World of Hawkins,Paula Hawkins,Mystery & Thriller,Paperback,20.82,4.9,6863,5890,2015
+B01898,The Hidden Habits of Housel,Morgan Housel,Business & Finance,Kindle,11.76,4.1,1088,2310,2023
+B01899,The Modern Future of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,11.33,4.3,1119,2666,2021
+B01900,The Mindful Echoes of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,14.16,4.3,659,2579,2018
+B01901,The Atomic Shadows of Attia,Peter Attia,Health & Wellness,Kindle,5.08,3.7,5391,6042,2019
+B01902,The Deep Empire of Bryson,Bill Bryson,Non-Fiction,Hardcover,35.88,4.2,865,1437,2014
+B01903,The Digital Strategy of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Paperback,17.87,4.3,384,1554,2020
+B01904,The Deep Equation of Haig,Matt Haig,Fiction,Hardcover,21.13,4.8,447,1455,2018
+B01905,The Deep Code Vol. 2,Ray Dalio,Business & Finance,Paperback,23.69,4.0,12903,10329,2016
+B01906,The Essential Horizon of Ng,Andrew Ng,Technology,Kindle,8.96,4.7,1700,2856,2016
+B01907,The Subtle Code of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,20.43,4.1,1291,1767,2019
+B01908,The Infinite Path of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,7.77,4.7,266,1782,2018
+B01909,The Curious Strategy of Marquez,Gabriel Garcia Marquez,Fiction,Kindle,8.23,4.4,2014,4218,2022
+B01910,The Essential Echoes Vol. 2,Phil Knight,Biography & Memoir,Kindle,12.93,4.2,4457,6965,2015
+B01911,The Hidden Echoes of Austen,Jane Austen,Fiction,Hardcover,34.91,4.6,7228,7359,2020
+B01912,The Lost Future of Westover,Tara Westover,Biography & Memoir,Kindle,13.39,4.6,2886,5288,2013
+B01913,The Courageous Code of Housel,Morgan Housel,Business & Finance,Kindle,12.89,4.4,6144,8880,2020
+B01914,The Lost World of Hawkins,Paula Hawkins,Mystery & Thriller,Kindle,6.41,4.2,610,2201,2019
+B01915,The Digital Horizon of Marquez,Gabriel Garcia Marquez,Fiction,Paperback,24.51,4.7,3469,3376,2018
+B01916,The Mindful Equation of Ries,Eric Ries,Business & Finance,Paperback,17.34,4.6,3137,4015,2022
+B01917,The Brave Art of Covey,Stephen Covey,Self-Help,Paperback,11.98,4.3,331,1218,2021
+B01918,The Silent Journey of Manson,Mark Manson,Self-Help,Kindle,3.74,5.0,1378,4102,2019
+B01919,The Lost Equation of Carnegie,Dale Carnegie,Self-Help,Kindle,9.9,4.6,95,642,2020
+B01920,The Hidden Future of Noah,Trevor Noah,Biography & Memoir,Paperback,14.36,4.6,1732,3747,2023
+B01921,The Brave Horizon of Brown,Dan Brown,Mystery & Thriller,Paperback,18.84,4.8,1520,4014,2019
+B01922,The Predictable Empire of Ferriss,Tim Ferriss,Health & Wellness,Kindle,12.98,4.3,6234,5492,2010
+B01923,The Infinite Future of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Kindle,8.42,4.5,8964,11280,2014
+B01924,The Curious Horizon of Weir,Andy Weir,Sci-Fi & Fantasy,Hardcover,27.79,4.2,4681,4552,2010
+B01925,The Modern Echoes of Knight,Phil Knight,Biography & Memoir,Paperback,10.95,4.3,312,813,2020
+B01926,The Digital Code of Thinker,Atomic Thinker,Self-Help,Kindle,9.51,4.6,332,1370,2024
+B01927,The Mindful World Vol. 2,Malcolm Gladwell,Non-Fiction,Paperback,11.72,4.2,13338,11531,2014
+B01928,The Essential Habits of Dalio,Ray Dalio,Business & Finance,Kindle,11.9,4.8,4275,7013,2020
+B01929,The Unreasonable Strategy of Ferriss,Tim Ferriss,Health & Wellness,Paperback,14.41,4.2,269,831,2022
+B01930,The Hidden Habits of Thiel,Peter Thiel,Business & Finance,Paperback,12.32,4.3,120,519,2018
+B01931,The Curious Code of Lewis,Michael Lewis,Non-Fiction,Kindle,9.16,4.2,987,3213,2013
+B01932,The Courageous Equation of Brown,Brené Brown,Self-Help,Kindle,6.99,4.0,1418,2175,2022
+B01933,The Mindful Empire of Weir,Andy Weir,Sci-Fi & Fantasy,Paperback,20.35,4.3,2373,3246,2023
+B01934,The Atomic Equation of Sparks,Nicholas Sparks,Romance,Paperback,20.31,4.0,730,2233,2023
+B01935,The Predictable Secrets Vol. 2,Brené Brown,Self-Help,Paperback,21.9,4.1,2539,3497,2020
+B01936,The Modern Code of Gaiman,Neil Gaiman,Sci-Fi & Fantasy,Paperback,23.63,4.4,1240,3015,2019
+B01937,The Courageous Mind of Skloot,Rebecca Skloot,Non-Fiction,Hardcover,34.41,4.8,3239,2883,2022
+B01938,The Hidden Horizon of Sanderson,Brandon Sanderson,Sci-Fi & Fantasy,Paperback,15.59,4.1,1414,3226,2012
+B01939,The Modern Journey of Hormozi,Alex Hormozi,Business & Finance,Hardcover,30.81,3.9,658,1079,2020
+B01940,The Deep Art of Clear,James Clear,Self-Help,Hardcover,29.18,4.7,1980,3535,2018
+B01941,The Hidden Journey of Gladwell,Malcolm Gladwell,Non-Fiction,Kindle,6.21,4.1,3197,4509,2012
+B01942,The Infinite Art of Lewis,Michael Lewis,Non-Fiction,Kindle,3.21,4.3,2520,5408,2021
+B01943,The Infinite Future of Asimov,Isaac Asimov,Sci-Fi & Fantasy,Kindle,7.82,4.5,2828,5271,2019
+B01944,The Silent Secrets of Thinker,Atomic Thinker,Self-Help,Kindle,8.96,4.6,3302,7087,2018
+B01945,The Brave Path of Dalio,Ray Dalio,Business & Finance,Paperback,23.15,4.7,1509,3985,2013
+B01946,The Curious Empire of Grann,David Grann,Non-Fiction,Kindle,3.17,4.4,415,2132,2010
+B01947,The Brave Future of Hormozi,Alex Hormozi,Business & Finance,Kindle,8.16,3.8,1449,3751,2019
+B01948,The Digital Horizon of Russell,Stuart Russell,Technology,Paperback,16.85,4.9,10194,10927,2018
+B01949,The Brave Art of Skloot,Rebecca Skloot,Non-Fiction,Paperback,14.58,4.5,4004,4680,2020
+B01950,The Curious Future of Flynn,Gillian Flynn,Mystery & Thriller,Paperback,15.56,5.0,139,706,2014
+B01951,The Infinite Echoes of Sparks,Nicholas Sparks,Romance,Kindle,13.78,4.4,1868,2889,2015
+B01952,The Infinite Shadows of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Kindle,8.99,4.0,2490,3980,2022
+B01953,The Digital Horizon Vol. 2,Stuart Russell,Technology,Paperback,15.04,3.8,4351,3243,2015
+B01954,The Lost Path of Bryson,Bill Bryson,Non-Fiction,Paperback,10.17,4.2,1500,3412,2018
+B01955,The Lost Echoes of Clear,James Clear,Self-Help,Kindle,5.84,4.4,270,1592,2019
+B01956,The Deep World of Haig,Matt Haig,Fiction,Paperback,20.75,4.6,3952,6154,2012
+B01957,The Deep Horizon of Austen,Jane Austen,Fiction,Paperback,14.69,4.1,3952,4178,2022
+B01958,The Silent Mind of Christie,Agatha Christie,Mystery & Thriller,Kindle,10.88,4.0,1376,3666,2019
+B01959,The Unreasonable Journey of Ng,Andrew Ng,Technology,Kindle,3.95,4.5,737,2604,2018
+B01960,The Predictable Secrets of Carnegie,Dale Carnegie,Self-Help,Kindle,10.4,4.4,10583,13207,2021
+B01961,The Silent Journey of Foley,Lucy Foley,Mystery & Thriller,Paperback,15.41,4.2,438,1582,2018
+B01962,The Deep Journey of Foley,Lucy Foley,Mystery & Thriller,Paperback,23.47,4.5,1082,2868,2013
+B01963,The Modern Code of Clear,James Clear,Self-Help,Paperback,17.35,4.4,995,2553,2017
+B01964,The Essential Journey of Morrison,Toni Morrison,Fiction,Kindle,4.71,4.2,4389,6714,2019
+B01965,The Lost Secrets of Brown,Brené Brown,Self-Help,Kindle,4.35,4.5,1642,3828,2020
+B01966,The Mindful Path of Manson,Mark Manson,Self-Help,Kindle,9.07,4.4,554,2389,2016
+B01967,The Hidden Journey of Tolkien,J.R.R. Tolkien,Sci-Fi & Fantasy,Paperback,14.22,4.4,343,983,2020
+B01968,The Courageous Journey of Dalio,Ray Dalio,Business & Finance,Paperback,14.4,4.5,1355,2416,2018
+B01969,The Hidden Horizon of Grann,David Grann,Non-Fiction,Hardcover,33.75,4.3,565,1200,2019
+B01970,The Mindful Secrets of Knight,Phil Knight,Biography & Memoir,Kindle,11.63,4.6,1844,2942,2019
+B01971,The Deep Habits of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,6.58,4.3,1855,2859,2013
+B01972,The Atomic Journey of Harari,Yuval Noah Harari,Non-Fiction,Kindle,3.53,4.4,4487,4536,2020
+B01973,The Essential Shadows of Weir,Andy Weir,Sci-Fi & Fantasy,Kindle,10.29,4.4,636,1842,2022
+B01974,The Courageous Equation of King,Stephen King,Mystery & Thriller,Paperback,16.26,5.0,4619,5407,2022
+B01975,The Atomic Code of Hoover,Colleen Hoover,Fiction,Hardcover,30.75,4.5,1072,2433,2014
+B01976,The Lost Art of Knight,Phil Knight,Biography & Memoir,Kindle,6.83,4.6,5211,8389,2020
+B01977,The Courageous World of Bryson,Bill Bryson,Non-Fiction,Kindle,13.18,4.7,308,1586,2011
+B01978,The Unreasonable Future of Ferriss,Tim Ferriss,Health & Wellness,Kindle,13.94,4.6,4249,7007,2020
+B01979,The Brave Echoes of Graham,Benjamin Graham,Business & Finance,Hardcover,34.37,4.6,2586,2620,2012
+B01980,The Predictable Horizon of Herbert,Frank Herbert,Sci-Fi & Fantasy,Paperback,21.01,4.6,5377,5984,2021
+B01981,The Hidden Art of Morrison,Toni Morrison,Fiction,Kindle,14.75,3.9,1007,1995,2020
+B01982,The Subtle Path of Ries,Eric Ries,Business & Finance,Kindle,11.23,4.9,849,3732,2013
+B01983,The Unreasonable Secrets of Skloot,Rebecca Skloot,Non-Fiction,Paperback,23.95,4.6,338,1118,2022
+B01984,The Hidden Code of Hoover,Colleen Hoover,Fiction,Hardcover,19.55,3.9,2544,2414,2021
+B01985,The Brave Equation of Lewis,Michael Lewis,Non-Fiction,Kindle,9.67,4.7,12115,13719,2019
+B01986,The Subtle Paradox of Fitzgerald,F. Scott Fitzgerald,Fiction,Paperback,15.9,4.1,1013,2388,2020
+B01987,The Predictable Equation of Graham,Benjamin Graham,Business & Finance,Paperback,21.59,5.0,686,1925,2021
+B01988,The Deep Habits of Obama,Michelle Obama,Biography & Memoir,Paperback,19.62,4.6,14211,11007,2012
+B01989,The Silent Path of Ferriss,Tim Ferriss,Health & Wellness,Kindle,14.17,4.4,4683,7567,2018
+B01990,The Mindful Habits of Housel,Morgan Housel,Business & Finance,Kindle,4.93,4.5,1086,3853,2018
+B01991,The Predictable Journey of Housel,Morgan Housel,Business & Finance,Kindle,4.24,4.0,4755,7501,2018
+B01992,The Digital Art of Harari,Yuval Noah Harari,Non-Fiction,Paperback,22.11,4.1,1274,1711,2016
+B01993,The Brave Paradox Vol. 2,Michael Lewis,Non-Fiction,Paperback,20.78,4.1,3850,3435,2016
+B01994,The Mindful Future of Kleppmann,Martin Kleppmann,Technology,Paperback,17.34,3.4,3905,4859,2023
+B01995,The Atomic Echoes of Lewis,Michael Lewis,Non-Fiction,Kindle,9.9,4.1,842,1946,2023
